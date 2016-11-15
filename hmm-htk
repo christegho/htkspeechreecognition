@@ -1,12 +1,14 @@
-#!/bin/bash
+#!/bin/bash 
+#DONE
 ../tools/steps/step-mono -FLATSTART -NUMMIXES 20  ../convert/fbk25d/env/environment_Z \ FBK_Z_Flatstart20/mono
 ../tools/steps/step-mono -NUMMIXES 20  ../convert/fbk25d/env/environment_Z \ FBK_Z_Init20/mono
 
+
 #Training with filter bank with different env / parametisations
-for deltaparam in E_D_Z E_D_A_Z E_Z
+for deltaparam in _E_D_Z _E_D_A_Z _E_Z
 do
-../tools/steps/step-mono -FLATSTART -NUMMIXES 20  ../convert/mfc13d/env/environment${deltaparam} \ FBK${deltaparam}_Flatstart20/mono
-../tools/steps/step-mono -NUMMIXES 20  ../convert/mfc13d/env/environment${deltaparam} \ FBK${deltaparam}_Init20/mono
+../tools/steps/step-mono -FLATSTART -NUMMIXES 20  ../convert/mfc13d/env/environment${deltaparam} \ MFC${deltaparam}_Flatstart20/mono
+../tools/steps/step-mono -NUMMIXES 20  ../convert/mfc13d/env/environment${deltaparam} \ MFC${deltaparam}_Init20/mono
 done
 #Training with MFCC with different env / parametisations
 for deltaparam in _D_Z _D_A_Z 
@@ -52,5 +54,3 @@ for option in CORETEST SUBTRAIN INSWORD GRAMMARSCALE
 	done 
      done 
 done
-	
-
