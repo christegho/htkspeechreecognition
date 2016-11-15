@@ -17,17 +17,18 @@ do
 ../tools/steps/step-mono -NUMMIXES 20  ../convert/fbk25d/env/environment${deltaparam} \ FBK${deltaparam}_Init20/mono
 done
 
-#Decoding without options
+#Decoding without options DONE
 do 
-for file in FBK_Z_Init20 FBK_D_Z_Init20 FBK_D_A_Z_Init20 FBK_D_A_Z_Flatstart20 FBK_D_Z_Flatstart20 MFC_Z_Init20 MFC_D_Z_Init20 MFC_D_A_Z_Init20 MFC_D_A_Z_Flatstart20 MFC_D_Z_Flatstart20 MFC_Z_Flatstart20
+for file in FBK_Z_Init20 FBK_D_Z_Init20 FBK_D_A_Z_Init20 FBK_D_A_Z_Flatstart20 FBK_D_Z_Flatstart20 MFC_E_Z_Init20 MFC_E_D_Z_Init20 MFC_E_D_A_Z_Init20 MFC_E_D_A_Z_Flatstart20 MFC_E_D_Z_Flatstart20 MFC_E_Z_Flatstart20
 	do
 	for i in $(seq 2 2 20)
 	do
+	echo $file $filename
 	hmm=hmm${i}4
 	filename=decode-mono-$hmm
 	../tools/steps/step-decode $PWD/$file/mono $hmm $file/NOOPTIONS/$filename
 	echo $file $filename no option >>text.txt
-	grep -A2 -P 'SENT' $file/NOOPTION/$filename/test/LOG >>text.txt
+	grep -A2 -P 'SENT' $file/NOOPTIONS/$filename/test/LOG >>text.txt
 	done
 done
 
@@ -54,3 +55,5 @@ for option in CORETEST SUBTRAIN INSWORD GRAMMARSCALE
 	done 
      done 
 done
+	
+
