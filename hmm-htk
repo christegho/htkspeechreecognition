@@ -60,7 +60,7 @@ for option in GRAMMARSCALE INSWORD
         hmm=hmm${i}4
         filename=decode-mono-$hmm
        
-          for optvalue in $(seq 0 0.2 2)
+          for optvalue in $(seq 0 1 13)
           do
             ../tools/steps/step-decode -$option $optvalue $PWD/$file/mono $hmm $file/${option}${optvalue}/$filename
 	    echo $file $filename -$option 
@@ -71,5 +71,40 @@ for option in GRAMMARSCALE INSWORD
 	done 
      done 
 done
+
+
+#Triphone test
+../tools/steps/step-xwtri -NUMMIXES 16 -ROVAL 200 -TBVAL 800 \ $PWD/MFC_E_D_Z_Flatstart20/mono hmm14 MFC_E_D_Z_Flatstart20/xwtri/TB800
+grep -Po  'Mean Occupation Count = \K[^ ]+' MFC_E_D_Z_Flatstart20/TB800/xwtri/hmm160/LOG >>tri.txt
+grep -Po  'to \K[^ ]+' MFC_E_D_Z_Flatstart20/TB800/xwtri/hmm160/LOG
+
+#Triphone
+for i in  400 600 800 1000 1400 
+../tools/steps/step-xwtri -NUMMIXES 20 -ROVAL 200 -TBVAL i \ $PWD/MFC_E_D_A_Z_Flatstart20/mono hmm164 MFC_E_D_A_Z_Flatstart20/xwtri/TB$i
+../tools/steps/step-xwtri -NUMMIXES 20 -ROVAL 200 -TBVAL i \ $PWD/MFC_E_D_A_Z_Init20/mono hmm164 MFC_E_D_A_Z_Init20/xwtri/TB$i
+
+../tools/steps/step-xwtri -NUMMIXES 20 -ROVAL 200 -TBVAL i \ $PWD/FBK_D_A_Z_Flatstart20/mono hmm164 FBK_D_A_Z_Flatstart20/xwtri/TB$i
+../tools/steps/step-xwtri -NUMMIXES 20 -ROVAL 200 -TBVAL i \ $PWD/FBK_D_A_Z_Init20/mono hmm164 FBK_D_A_Z_Init20/xwtri/TB$i
+
+#Decoding TRIPHONES without options 
+do 
+for file in MFC_E_D_A_Z_Init20 MFC_E_D_A_Z_Flatstart20 FBK_D_A_Z_Init20 FBK_D_A_Z_Flatstart20
+	do
+	for tb in 400 600 800 1000 1400 
+	do
+	for i in $(seq 2 2 20)
+	do
+	echo $file $filename
+	hmm=hmm${i}4
+	filename=decode-xwtri-$hmm
+	../tools/steps/step-decode $PWD/$file/xwtri/TB$tb $hmm $file/xwtri/TB$tb/NOOPTIONS/$filename
+	echo $file $filename no option >>tri.txt
+	grep -Po  'Mean Occupation Count = \K[^ ]+' MFC_E_D_Z_Flatstart20/xwtri/TB$tb/hmm${i}0/LOG >>tri.txt
+	grep -Po  'to \K[^ ]+' $file/xwtri/TB$tb/hmm${i}0/LOG >>tri.txt
+	grep -A2 -P 'SENT' $file/xwtri/TB$tb/NOOPTIONS/$filename/test/LOG >>tri.txt
+	done
+done
+done
+
 	
 

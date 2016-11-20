@@ -2647,3 +2647,1987 @@ FBK_D_A_Z_Init20 decode-mono-hmm164 -GRAMMARSCALE 0.6
 SENT: %Correct=0.00 [H=0, S=1342, N=1342]
 WORD: %Corr=70.41, Acc=50.28 [H=36355, D=2066, S=13211, I=10395, N=51632]
 ===================================================================
+FBK_D_A_Z_Init20 decode-mono-hmm164 -GRAMMARSCALE 0.8
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=70.41, Acc=50.28 [H=36355, D=2066, S=13211, I=10395, N=51632]
+===================================================================
+FBK_D_A_Z_Init20 decode-mono-hmm164 -GRAMMARSCALE 1.0
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=70.41, Acc=50.28 [H=36355, D=2066, S=13211, I=10395, N=51632]
+===================================================================
+FBK_D_A_Z_Init20 decode-mono-hmm164 -GRAMMARSCALE 1.2
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=70.41, Acc=50.28 [H=36355, D=2066, S=13211, I=10395, N=51632]
+===================================================================
+FBK_D_A_Z_Init20 decode-mono-hmm164 -GRAMMARSCALE 1.4
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=70.41, Acc=50.28 [H=36355, D=2066, S=13211, I=10395, N=51632]
+===================================================================
+FBK_D_A_Z_Init20 decode-mono-hmm164 -GRAMMARSCALE 1.6
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=70.41, Acc=50.28 [H=36355, D=2066, S=13211, I=10395, N=51632]
+===================================================================
+FBK_D_A_Z_Init20 decode-mono-hmm164 -GRAMMARSCALE 1.8
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=70.41, Acc=50.28 [H=36355, D=2066, S=13211, I=10395, N=51632]
+===================================================================
+FBK_D_A_Z_Init20 decode-mono-hmm164 -GRAMMARSCALE 2.0
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=70.41, Acc=50.28 [H=36355, D=2066, S=13211, I=10395, N=51632]
+===================================================================
+FBK_D_A_Z_Init20 decode-mono-hmm184 -GRAMMARSCALE 0.0
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=70.75, Acc=51.06 [H=36531, D=2048, S=13053, I=10170, N=51632]
+===================================================================
+FBK_D_A_Z_Init20 decode-mono-hmm184 -GRAMMARSCALE 0.2
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=70.75, Acc=51.06 [H=36531, D=2048, S=13053, I=10170, N=51632]
+===================================================================
+FBK_D_A_Z_Init20 decode-mono-hmm184 -GRAMMARSCALE 0.4
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=70.75, Acc=51.06 [H=36531, D=2048, S=13053, I=10170, N=51632]
+===================================================================
+FBK_D_A_Z_Init20 decode-mono-hmm184 -GRAMMARSCALE 0.6
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=70.75, Acc=51.06 [H=36531, D=2048, S=13053, I=10170, N=51632]
+===================================================================
+FBK_D_A_Z_Init20 decode-mono-hmm184 -GRAMMARSCALE 0.8
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=70.75, Acc=51.06 [H=36531, D=2048, S=13053, I=10170, N=51632]
+===================================================================
+FBK_D_A_Z_Init20 decode-mono-hmm184 -GRAMMARSCALE 1.0
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=70.75, Acc=51.06 [H=36531, D=2048, S=13053, I=10170, N=51632]
+===================================================================
+FBK_D_A_Z_Init20 decode-mono-hmm184 -GRAMMARSCALE 1.2
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=70.75, Acc=51.06 [H=36531, D=2048, S=13053, I=10170, N=51632]
+===================================================================
+FBK_D_A_Z_Init20 decode-mono-hmm184 -GRAMMARSCALE 1.4
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=70.75, Acc=51.06 [H=36531, D=2048, S=13053, I=10170, N=51632]
+===================================================================
+FBK_D_A_Z_Init20 decode-mono-hmm184 -GRAMMARSCALE 1.6
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=70.75, Acc=51.06 [H=36531, D=2048, S=13053, I=10170, N=51632]
+===================================================================
+FBK_D_A_Z_Init20 decode-mono-hmm184 -GRAMMARSCALE 1.8
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=70.75, Acc=51.06 [H=36531, D=2048, S=13053, I=10170, N=51632]
+===================================================================
+FBK_D_A_Z_Init20 decode-mono-hmm184 -GRAMMARSCALE 2.0
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=70.75, Acc=51.06 [H=36531, D=2048, S=13053, I=10170, N=51632]
+===================================================================
+FBK_D_A_Z_Init20 decode-mono-hmm204 -GRAMMARSCALE 0.0
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=71.22, Acc=51.83 [H=36774, D=2059, S=12799, I=10015, N=51632]
+===================================================================
+FBK_D_A_Z_Init20 decode-mono-hmm204 -GRAMMARSCALE 0.2
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=71.22, Acc=51.83 [H=36774, D=2059, S=12799, I=10015, N=51632]
+===================================================================
+FBK_D_A_Z_Init20 decode-mono-hmm204 -GRAMMARSCALE 0.4
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=71.22, Acc=51.83 [H=36774, D=2059, S=12799, I=10015, N=51632]
+===================================================================
+FBK_D_A_Z_Init20 decode-mono-hmm204 -GRAMMARSCALE 0.6
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=71.22, Acc=51.83 [H=36774, D=2059, S=12799, I=10015, N=51632]
+===================================================================
+FBK_D_A_Z_Init20 decode-mono-hmm204 -GRAMMARSCALE 0.8
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=71.22, Acc=51.83 [H=36774, D=2059, S=12799, I=10015, N=51632]
+===================================================================
+FBK_D_A_Z_Init20 decode-mono-hmm204 -GRAMMARSCALE 1.0
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=71.22, Acc=51.83 [H=36774, D=2059, S=12799, I=10015, N=51632]
+===================================================================
+FBK_D_A_Z_Init20 decode-mono-hmm204 -GRAMMARSCALE 1.2
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=71.22, Acc=51.83 [H=36774, D=2059, S=12799, I=10015, N=51632]
+===================================================================
+FBK_D_A_Z_Init20 decode-mono-hmm204 -GRAMMARSCALE 1.4
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=71.22, Acc=51.83 [H=36774, D=2059, S=12799, I=10015, N=51632]
+===================================================================
+FBK_D_A_Z_Init20 decode-mono-hmm204 -GRAMMARSCALE 1.6
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=71.22, Acc=51.83 [H=36774, D=2059, S=12799, I=10015, N=51632]
+===================================================================
+FBK_D_A_Z_Init20 decode-mono-hmm204 -GRAMMARSCALE 1.8
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=71.22, Acc=51.83 [H=36774, D=2059, S=12799, I=10015, N=51632]
+===================================================================
+FBK_D_A_Z_Init20 decode-mono-hmm204 -GRAMMARSCALE 2.0
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=71.22, Acc=51.83 [H=36774, D=2059, S=12799, I=10015, N=51632]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm24 -GRAMMARSCALE 0.0
+SENT: %Correct=0.00 [H=0, S=1334, N=1334]
+WORD: %Corr=59.70, Acc=37.69 [H=30646, D=2954, S=17731, I=11300, N=51331]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm24 -GRAMMARSCALE 0.2
+SENT: %Correct=0.00 [H=0, S=1334, N=1334]
+WORD: %Corr=59.70, Acc=37.69 [H=30646, D=2954, S=17731, I=11300, N=51331]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm24 -GRAMMARSCALE 0.4
+SENT: %Correct=0.00 [H=0, S=1334, N=1334]
+WORD: %Corr=59.70, Acc=37.69 [H=30646, D=2954, S=17731, I=11300, N=51331]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm24 -GRAMMARSCALE 0.6
+SENT: %Correct=0.00 [H=0, S=1334, N=1334]
+WORD: %Corr=59.70, Acc=37.69 [H=30646, D=2954, S=17731, I=11300, N=51331]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm24 -GRAMMARSCALE 0.8
+SENT: %Correct=0.00 [H=0, S=1334, N=1334]
+WORD: %Corr=59.70, Acc=37.69 [H=30646, D=2954, S=17731, I=11300, N=51331]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm24 -GRAMMARSCALE 1.0
+SENT: %Correct=0.00 [H=0, S=1334, N=1334]
+WORD: %Corr=59.70, Acc=37.69 [H=30646, D=2954, S=17731, I=11300, N=51331]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm24 -GRAMMARSCALE 1.2
+SENT: %Correct=0.00 [H=0, S=1334, N=1334]
+WORD: %Corr=59.70, Acc=37.69 [H=30646, D=2954, S=17731, I=11300, N=51331]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm24 -GRAMMARSCALE 1.4
+SENT: %Correct=0.00 [H=0, S=1334, N=1334]
+WORD: %Corr=59.70, Acc=37.69 [H=30646, D=2954, S=17731, I=11300, N=51331]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm24 -GRAMMARSCALE 1.6
+SENT: %Correct=0.00 [H=0, S=1334, N=1334]
+WORD: %Corr=59.70, Acc=37.69 [H=30646, D=2954, S=17731, I=11300, N=51331]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm24 -GRAMMARSCALE 1.8
+SENT: %Correct=0.00 [H=0, S=1334, N=1334]
+WORD: %Corr=59.70, Acc=37.69 [H=30646, D=2954, S=17731, I=11300, N=51331]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm24 -GRAMMARSCALE 2.0
+SENT: %Correct=0.00 [H=0, S=1334, N=1334]
+WORD: %Corr=59.70, Acc=37.69 [H=30646, D=2954, S=17731, I=11300, N=51331]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm44 -GRAMMARSCALE 0.0
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=63.14, Acc=42.15 [H=32656, D=2629, S=16436, I=10858, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm44 -GRAMMARSCALE 0.2
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=63.14, Acc=42.15 [H=32656, D=2629, S=16436, I=10858, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm44 -GRAMMARSCALE 0.4
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=63.14, Acc=42.15 [H=32656, D=2629, S=16436, I=10858, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm44 -GRAMMARSCALE 0.6
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=63.14, Acc=42.15 [H=32656, D=2629, S=16436, I=10858, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm44 -GRAMMARSCALE 0.8
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=63.14, Acc=42.15 [H=32656, D=2629, S=16436, I=10858, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm44 -GRAMMARSCALE 1.0
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=63.14, Acc=42.15 [H=32656, D=2629, S=16436, I=10858, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm44 -GRAMMARSCALE 1.2
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=63.14, Acc=42.15 [H=32656, D=2629, S=16436, I=10858, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm44 -GRAMMARSCALE 1.4
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=63.14, Acc=42.15 [H=32656, D=2629, S=16436, I=10858, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm44 -GRAMMARSCALE 1.6
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=63.14, Acc=42.15 [H=32656, D=2629, S=16436, I=10858, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm44 -GRAMMARSCALE 1.8
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=63.14, Acc=42.15 [H=32656, D=2629, S=16436, I=10858, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm44 -GRAMMARSCALE 2.0
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=63.14, Acc=42.15 [H=32656, D=2629, S=16436, I=10858, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm64 -GRAMMARSCALE 0.0
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=65.71, Acc=43.90 [H=33988, D=2329, S=15404, I=11283, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm64 -GRAMMARSCALE 0.2
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=65.71, Acc=43.90 [H=33988, D=2329, S=15404, I=11283, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm64 -GRAMMARSCALE 0.4
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=65.71, Acc=43.90 [H=33988, D=2329, S=15404, I=11283, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm64 -GRAMMARSCALE 0.6
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=65.71, Acc=43.90 [H=33988, D=2329, S=15404, I=11283, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm64 -GRAMMARSCALE 0.8
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=65.71, Acc=43.90 [H=33988, D=2329, S=15404, I=11283, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm64 -GRAMMARSCALE 1.0
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=65.71, Acc=43.90 [H=33988, D=2329, S=15404, I=11283, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm64 -GRAMMARSCALE 1.2
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=65.71, Acc=43.90 [H=33988, D=2329, S=15404, I=11283, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm64 -GRAMMARSCALE 1.4
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=65.71, Acc=43.90 [H=33988, D=2329, S=15404, I=11283, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm64 -GRAMMARSCALE 1.6
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=65.71, Acc=43.90 [H=33988, D=2329, S=15404, I=11283, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm64 -GRAMMARSCALE 1.8
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=65.71, Acc=43.90 [H=33988, D=2329, S=15404, I=11283, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm64 -GRAMMARSCALE 2.0
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=65.71, Acc=43.90 [H=33988, D=2329, S=15404, I=11283, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm84 -GRAMMARSCALE 0.0
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=67.38, Acc=46.23 [H=34850, D=2149, S=14722, I=10940, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm84 -GRAMMARSCALE 0.2
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=67.38, Acc=46.23 [H=34850, D=2149, S=14722, I=10940, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm84 -GRAMMARSCALE 0.4
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=67.38, Acc=46.23 [H=34850, D=2149, S=14722, I=10940, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm84 -GRAMMARSCALE 0.6
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=67.38, Acc=46.23 [H=34850, D=2149, S=14722, I=10940, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm84 -GRAMMARSCALE 0.8
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=67.38, Acc=46.23 [H=34850, D=2149, S=14722, I=10940, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm84 -GRAMMARSCALE 1.0
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=67.38, Acc=46.23 [H=34850, D=2149, S=14722, I=10940, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm84 -GRAMMARSCALE 1.2
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=67.38, Acc=46.23 [H=34850, D=2149, S=14722, I=10940, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm84 -GRAMMARSCALE 1.4
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=67.38, Acc=46.23 [H=34850, D=2149, S=14722, I=10940, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm84 -GRAMMARSCALE 1.6
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=67.38, Acc=46.23 [H=34850, D=2149, S=14722, I=10940, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm84 -GRAMMARSCALE 1.8
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=67.38, Acc=46.23 [H=34850, D=2149, S=14722, I=10940, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm84 -GRAMMARSCALE 2.0
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=67.38, Acc=46.23 [H=34850, D=2149, S=14722, I=10940, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm104 -GRAMMARSCALE 0.0
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=68.49, Acc=47.91 [H=35426, D=2190, S=14105, I=10644, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm104 -GRAMMARSCALE 0.2
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=68.49, Acc=47.91 [H=35426, D=2190, S=14105, I=10644, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm104 -GRAMMARSCALE 0.4
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=68.49, Acc=47.91 [H=35426, D=2190, S=14105, I=10644, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm104 -GRAMMARSCALE 0.6
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=68.49, Acc=47.91 [H=35426, D=2190, S=14105, I=10644, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm104 -GRAMMARSCALE 0.8
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=68.49, Acc=47.91 [H=35426, D=2190, S=14105, I=10644, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm104 -GRAMMARSCALE 1.0
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=68.49, Acc=47.91 [H=35426, D=2190, S=14105, I=10644, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm104 -GRAMMARSCALE 1.2
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=68.49, Acc=47.91 [H=35426, D=2190, S=14105, I=10644, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm104 -GRAMMARSCALE 1.4
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=68.49, Acc=47.91 [H=35426, D=2190, S=14105, I=10644, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm104 -GRAMMARSCALE 1.6
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=68.49, Acc=47.91 [H=35426, D=2190, S=14105, I=10644, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm104 -GRAMMARSCALE 1.8
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=68.49, Acc=47.91 [H=35426, D=2190, S=14105, I=10644, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm104 -GRAMMARSCALE 2.0
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=68.49, Acc=47.91 [H=35426, D=2190, S=14105, I=10644, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm124 -GRAMMARSCALE 0.0
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=69.33, Acc=49.13 [H=35820, D=2176, S=13672, I=10436, N=51668]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm124 -GRAMMARSCALE 0.2
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=69.33, Acc=49.13 [H=35820, D=2176, S=13672, I=10436, N=51668]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm124 -GRAMMARSCALE 0.4
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=69.33, Acc=49.13 [H=35820, D=2176, S=13672, I=10436, N=51668]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm124 -GRAMMARSCALE 0.6
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=69.33, Acc=49.13 [H=35820, D=2176, S=13672, I=10436, N=51668]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm124 -GRAMMARSCALE 0.8
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=69.33, Acc=49.13 [H=35820, D=2176, S=13672, I=10436, N=51668]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm124 -GRAMMARSCALE 1.0
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=69.33, Acc=49.13 [H=35820, D=2176, S=13672, I=10436, N=51668]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm124 -GRAMMARSCALE 1.2
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=69.33, Acc=49.13 [H=35820, D=2176, S=13672, I=10436, N=51668]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm124 -GRAMMARSCALE 1.4
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=69.33, Acc=49.13 [H=35820, D=2176, S=13672, I=10436, N=51668]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm124 -GRAMMARSCALE 1.6
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=69.33, Acc=49.13 [H=35820, D=2176, S=13672, I=10436, N=51668]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm124 -GRAMMARSCALE 1.8
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=69.33, Acc=49.13 [H=35820, D=2176, S=13672, I=10436, N=51668]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm124 -GRAMMARSCALE 2.0
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=69.33, Acc=49.13 [H=35820, D=2176, S=13672, I=10436, N=51668]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm144 -GRAMMARSCALE 0.0
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=69.86, Acc=49.78 [H=36131, D=2132, S=13458, I=10383, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm144 -GRAMMARSCALE 0.2
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=69.86, Acc=49.78 [H=36131, D=2132, S=13458, I=10383, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm144 -GRAMMARSCALE 0.4
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=69.86, Acc=49.78 [H=36131, D=2132, S=13458, I=10383, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm144 -GRAMMARSCALE 0.6
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=69.86, Acc=49.78 [H=36131, D=2132, S=13458, I=10383, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm144 -GRAMMARSCALE 0.8
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=69.86, Acc=49.78 [H=36131, D=2132, S=13458, I=10383, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm144 -GRAMMARSCALE 1.0
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=69.86, Acc=49.78 [H=36131, D=2132, S=13458, I=10383, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm144 -GRAMMARSCALE 1.2
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=69.86, Acc=49.78 [H=36131, D=2132, S=13458, I=10383, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm144 -GRAMMARSCALE 1.4
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=69.86, Acc=49.78 [H=36131, D=2132, S=13458, I=10383, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm144 -GRAMMARSCALE 1.6
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=69.86, Acc=49.78 [H=36131, D=2132, S=13458, I=10383, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm144 -GRAMMARSCALE 1.8
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=69.86, Acc=49.78 [H=36131, D=2132, S=13458, I=10383, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm144 -GRAMMARSCALE 2.0
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=69.86, Acc=49.78 [H=36131, D=2132, S=13458, I=10383, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm164 -GRAMMARSCALE 0.0
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=70.30, Acc=50.18 [H=36324, D=2082, S=13262, I=10396, N=51668]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm164 -GRAMMARSCALE 0.2
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=70.30, Acc=50.18 [H=36324, D=2082, S=13262, I=10396, N=51668]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm164 -GRAMMARSCALE 0.4
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=70.30, Acc=50.18 [H=36324, D=2082, S=13262, I=10396, N=51668]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm164 -GRAMMARSCALE 0.6
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=70.30, Acc=50.18 [H=36324, D=2082, S=13262, I=10396, N=51668]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm164 -GRAMMARSCALE 0.8
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=70.30, Acc=50.18 [H=36324, D=2082, S=13262, I=10396, N=51668]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm164 -GRAMMARSCALE 1.0
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=70.30, Acc=50.18 [H=36324, D=2082, S=13262, I=10396, N=51668]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm164 -GRAMMARSCALE 1.2
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=70.30, Acc=50.18 [H=36324, D=2082, S=13262, I=10396, N=51668]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm164 -GRAMMARSCALE 1.4
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=70.30, Acc=50.18 [H=36324, D=2082, S=13262, I=10396, N=51668]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm164 -GRAMMARSCALE 1.6
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=70.30, Acc=50.18 [H=36324, D=2082, S=13262, I=10396, N=51668]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm164 -GRAMMARSCALE 1.8
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=70.30, Acc=50.18 [H=36324, D=2082, S=13262, I=10396, N=51668]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm164 -GRAMMARSCALE 2.0
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=70.30, Acc=50.18 [H=36324, D=2082, S=13262, I=10396, N=51668]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm184 -GRAMMARSCALE 0.0
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=70.89, Acc=51.07 [H=36667, D=2112, S=12942, I=10252, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm184 -GRAMMARSCALE 0.2
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=70.89, Acc=51.07 [H=36667, D=2112, S=12942, I=10252, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm184 -GRAMMARSCALE 0.4
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=70.89, Acc=51.07 [H=36667, D=2112, S=12942, I=10252, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm184 -GRAMMARSCALE 0.6
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=70.89, Acc=51.07 [H=36667, D=2112, S=12942, I=10252, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm184 -GRAMMARSCALE 0.8
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=70.89, Acc=51.07 [H=36667, D=2112, S=12942, I=10252, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm184 -GRAMMARSCALE 1.0
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=70.89, Acc=51.07 [H=36667, D=2112, S=12942, I=10252, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm184 -GRAMMARSCALE 1.2
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=70.89, Acc=51.07 [H=36667, D=2112, S=12942, I=10252, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm184 -GRAMMARSCALE 1.4
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=70.89, Acc=51.07 [H=36667, D=2112, S=12942, I=10252, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm184 -GRAMMARSCALE 1.6
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=70.89, Acc=51.07 [H=36667, D=2112, S=12942, I=10252, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm184 -GRAMMARSCALE 1.8
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=70.89, Acc=51.07 [H=36667, D=2112, S=12942, I=10252, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm184 -GRAMMARSCALE 2.0
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=70.89, Acc=51.07 [H=36667, D=2112, S=12942, I=10252, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm204 -GRAMMARSCALE 0.0
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=71.38, Acc=51.90 [H=36916, D=2103, S=12702, I=10075, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm204 -GRAMMARSCALE 0.2
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=71.38, Acc=51.90 [H=36916, D=2103, S=12702, I=10075, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm204 -GRAMMARSCALE 0.4
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=71.38, Acc=51.90 [H=36916, D=2103, S=12702, I=10075, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm204 -GRAMMARSCALE 0.6
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=71.38, Acc=51.90 [H=36916, D=2103, S=12702, I=10075, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm204 -GRAMMARSCALE 0.8
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=71.38, Acc=51.90 [H=36916, D=2103, S=12702, I=10075, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm204 -GRAMMARSCALE 1.0
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=71.38, Acc=51.90 [H=36916, D=2103, S=12702, I=10075, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm204 -GRAMMARSCALE 1.2
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=71.38, Acc=51.90 [H=36916, D=2103, S=12702, I=10075, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm204 -GRAMMARSCALE 1.4
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=71.38, Acc=51.90 [H=36916, D=2103, S=12702, I=10075, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm204 -GRAMMARSCALE 1.6
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=71.38, Acc=51.90 [H=36916, D=2103, S=12702, I=10075, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm204 -GRAMMARSCALE 1.8
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=71.38, Acc=51.90 [H=36916, D=2103, S=12702, I=10075, N=51721]
+===================================================================
+FBK_D_A_Z_Flatstart20 decode-mono-hmm204 -GRAMMARSCALE 2.0
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=71.38, Acc=51.90 [H=36916, D=2103, S=12702, I=10075, N=51721]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm24 -GRAMMARSCALE 0.0
+SENT: %Correct=0.00 [H=0, S=1333, N=1333]
+WORD: %Corr=57.24, Acc=36.56 [H=29369, D=3535, S=18402, I=10609, N=51306]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm24 -GRAMMARSCALE 0.2
+SENT: %Correct=0.00 [H=0, S=1333, N=1333]
+WORD: %Corr=57.24, Acc=36.56 [H=29369, D=3535, S=18402, I=10609, N=51306]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm24 -GRAMMARSCALE 0.4
+SENT: %Correct=0.00 [H=0, S=1333, N=1333]
+WORD: %Corr=57.24, Acc=36.56 [H=29369, D=3535, S=18402, I=10609, N=51306]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm24 -GRAMMARSCALE 0.6
+SENT: %Correct=0.00 [H=0, S=1333, N=1333]
+WORD: %Corr=57.24, Acc=36.56 [H=29369, D=3535, S=18402, I=10609, N=51306]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm24 -GRAMMARSCALE 0.8
+SENT: %Correct=0.00 [H=0, S=1333, N=1333]
+WORD: %Corr=57.24, Acc=36.56 [H=29369, D=3535, S=18402, I=10609, N=51306]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm24 -GRAMMARSCALE 1.0
+SENT: %Correct=0.00 [H=0, S=1333, N=1333]
+WORD: %Corr=57.24, Acc=36.56 [H=29369, D=3535, S=18402, I=10609, N=51306]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm24 -GRAMMARSCALE 1.2
+SENT: %Correct=0.00 [H=0, S=1333, N=1333]
+WORD: %Corr=57.24, Acc=36.56 [H=29369, D=3535, S=18402, I=10609, N=51306]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm24 -GRAMMARSCALE 1.4
+SENT: %Correct=0.00 [H=0, S=1333, N=1333]
+WORD: %Corr=57.24, Acc=36.56 [H=29369, D=3535, S=18402, I=10609, N=51306]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm24 -GRAMMARSCALE 1.6
+SENT: %Correct=0.00 [H=0, S=1333, N=1333]
+WORD: %Corr=57.24, Acc=36.56 [H=29369, D=3535, S=18402, I=10609, N=51306]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm24 -GRAMMARSCALE 1.8
+SENT: %Correct=0.00 [H=0, S=1333, N=1333]
+WORD: %Corr=57.24, Acc=36.56 [H=29369, D=3535, S=18402, I=10609, N=51306]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm24 -GRAMMARSCALE 2.0
+SENT: %Correct=0.00 [H=0, S=1333, N=1333]
+WORD: %Corr=57.24, Acc=36.56 [H=29369, D=3535, S=18402, I=10609, N=51306]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm44 -GRAMMARSCALE 0.0
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=60.94, Acc=41.44 [H=31494, D=3461, S=16729, I=10078, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm44 -GRAMMARSCALE 0.2
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=60.94, Acc=41.44 [H=31494, D=3461, S=16729, I=10078, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm44 -GRAMMARSCALE 0.4
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=60.94, Acc=41.44 [H=31494, D=3461, S=16729, I=10078, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm44 -GRAMMARSCALE 0.6
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=60.94, Acc=41.44 [H=31494, D=3461, S=16729, I=10078, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm44 -GRAMMARSCALE 0.8
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=60.94, Acc=41.44 [H=31494, D=3461, S=16729, I=10078, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm44 -GRAMMARSCALE 1.0
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=60.94, Acc=41.44 [H=31494, D=3461, S=16729, I=10078, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm44 -GRAMMARSCALE 1.2
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=60.94, Acc=41.44 [H=31494, D=3461, S=16729, I=10078, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm44 -GRAMMARSCALE 1.4
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=60.94, Acc=41.44 [H=31494, D=3461, S=16729, I=10078, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm44 -GRAMMARSCALE 1.6
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=60.94, Acc=41.44 [H=31494, D=3461, S=16729, I=10078, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm44 -GRAMMARSCALE 1.8
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=60.94, Acc=41.44 [H=31494, D=3461, S=16729, I=10078, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm44 -GRAMMARSCALE 2.0
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=60.94, Acc=41.44 [H=31494, D=3461, S=16729, I=10078, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm64 -GRAMMARSCALE 0.0
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=63.26, Acc=44.48 [H=32694, D=3129, S=15861, I=9707, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm64 -GRAMMARSCALE 0.2
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=63.26, Acc=44.48 [H=32694, D=3129, S=15861, I=9707, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm64 -GRAMMARSCALE 0.4
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=63.26, Acc=44.48 [H=32694, D=3129, S=15861, I=9707, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm64 -GRAMMARSCALE 0.6
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=63.26, Acc=44.48 [H=32694, D=3129, S=15861, I=9707, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm64 -GRAMMARSCALE 0.8
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=63.26, Acc=44.48 [H=32694, D=3129, S=15861, I=9707, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm64 -GRAMMARSCALE 1.0
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=63.26, Acc=44.48 [H=32694, D=3129, S=15861, I=9707, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm64 -GRAMMARSCALE 1.2
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=63.26, Acc=44.48 [H=32694, D=3129, S=15861, I=9707, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm64 -GRAMMARSCALE 1.4
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=63.26, Acc=44.48 [H=32694, D=3129, S=15861, I=9707, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm64 -GRAMMARSCALE 1.6
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=63.26, Acc=44.48 [H=32694, D=3129, S=15861, I=9707, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm64 -GRAMMARSCALE 1.8
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=63.26, Acc=44.48 [H=32694, D=3129, S=15861, I=9707, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm64 -GRAMMARSCALE 2.0
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=63.26, Acc=44.48 [H=32694, D=3129, S=15861, I=9707, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm84 -GRAMMARSCALE 0.0
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=64.73, Acc=45.81 [H=33455, D=2994, S=15235, I=9779, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm84 -GRAMMARSCALE 0.2
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=64.73, Acc=45.81 [H=33455, D=2994, S=15235, I=9779, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm84 -GRAMMARSCALE 0.4
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=64.73, Acc=45.81 [H=33455, D=2994, S=15235, I=9779, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm84 -GRAMMARSCALE 0.6
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=64.73, Acc=45.81 [H=33455, D=2994, S=15235, I=9779, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm84 -GRAMMARSCALE 0.8
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=64.73, Acc=45.81 [H=33455, D=2994, S=15235, I=9779, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm84 -GRAMMARSCALE 1.0
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=64.73, Acc=45.81 [H=33455, D=2994, S=15235, I=9779, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm84 -GRAMMARSCALE 1.2
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=64.73, Acc=45.81 [H=33455, D=2994, S=15235, I=9779, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm84 -GRAMMARSCALE 1.4
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=64.73, Acc=45.81 [H=33455, D=2994, S=15235, I=9779, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm84 -GRAMMARSCALE 1.6
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=64.73, Acc=45.81 [H=33455, D=2994, S=15235, I=9779, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm84 -GRAMMARSCALE 1.8
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=64.73, Acc=45.81 [H=33455, D=2994, S=15235, I=9779, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm84 -GRAMMARSCALE 2.0
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=64.73, Acc=45.81 [H=33455, D=2994, S=15235, I=9779, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm104 -GRAMMARSCALE 0.0
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=65.98, Acc=46.82 [H=34099, D=2824, S=14761, I=9898, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm104 -GRAMMARSCALE 0.2
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=65.98, Acc=46.82 [H=34099, D=2824, S=14761, I=9898, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm104 -GRAMMARSCALE 0.4
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=65.98, Acc=46.82 [H=34099, D=2824, S=14761, I=9898, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm104 -GRAMMARSCALE 0.6
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=65.98, Acc=46.82 [H=34099, D=2824, S=14761, I=9898, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm104 -GRAMMARSCALE 0.8
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=65.98, Acc=46.82 [H=34099, D=2824, S=14761, I=9898, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm104 -GRAMMARSCALE 1.0
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=65.98, Acc=46.82 [H=34099, D=2824, S=14761, I=9898, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm104 -GRAMMARSCALE 1.2
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=65.98, Acc=46.82 [H=34099, D=2824, S=14761, I=9898, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm104 -GRAMMARSCALE 1.4
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=65.98, Acc=46.82 [H=34099, D=2824, S=14761, I=9898, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm104 -GRAMMARSCALE 1.6
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=65.98, Acc=46.82 [H=34099, D=2824, S=14761, I=9898, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm104 -GRAMMARSCALE 1.8
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=65.98, Acc=46.82 [H=34099, D=2824, S=14761, I=9898, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm104 -GRAMMARSCALE 2.0
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=65.98, Acc=46.82 [H=34099, D=2824, S=14761, I=9898, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm124 -GRAMMARSCALE 0.0
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=66.67, Acc=48.14 [H=34460, D=2788, S=14436, I=9577, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm124 -GRAMMARSCALE 0.2
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=66.67, Acc=48.14 [H=34460, D=2788, S=14436, I=9577, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm124 -GRAMMARSCALE 0.4
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=66.67, Acc=48.14 [H=34460, D=2788, S=14436, I=9577, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm124 -GRAMMARSCALE 0.6
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=66.67, Acc=48.14 [H=34460, D=2788, S=14436, I=9577, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm124 -GRAMMARSCALE 0.8
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=66.67, Acc=48.14 [H=34460, D=2788, S=14436, I=9577, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm124 -GRAMMARSCALE 1.0
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=66.67, Acc=48.14 [H=34460, D=2788, S=14436, I=9577, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm124 -GRAMMARSCALE 1.2
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=66.67, Acc=48.14 [H=34460, D=2788, S=14436, I=9577, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm124 -GRAMMARSCALE 1.4
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=66.67, Acc=48.14 [H=34460, D=2788, S=14436, I=9577, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm124 -GRAMMARSCALE 1.6
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=66.67, Acc=48.14 [H=34460, D=2788, S=14436, I=9577, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm124 -GRAMMARSCALE 1.8
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=66.67, Acc=48.14 [H=34460, D=2788, S=14436, I=9577, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm124 -GRAMMARSCALE 2.0
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=66.67, Acc=48.14 [H=34460, D=2788, S=14436, I=9577, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm144 -GRAMMARSCALE 0.0
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=67.59, Acc=49.08 [H=34932, D=2701, S=14051, I=9567, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm144 -GRAMMARSCALE 0.2
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=67.59, Acc=49.08 [H=34932, D=2701, S=14051, I=9567, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm144 -GRAMMARSCALE 0.4
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=67.59, Acc=49.08 [H=34932, D=2701, S=14051, I=9567, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm144 -GRAMMARSCALE 0.6
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=67.59, Acc=49.08 [H=34932, D=2701, S=14051, I=9567, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm144 -GRAMMARSCALE 0.8
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=67.59, Acc=49.08 [H=34932, D=2701, S=14051, I=9567, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm144 -GRAMMARSCALE 1.0
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=67.59, Acc=49.08 [H=34932, D=2701, S=14051, I=9567, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm144 -GRAMMARSCALE 1.2
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=67.59, Acc=49.08 [H=34932, D=2701, S=14051, I=9567, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm144 -GRAMMARSCALE 1.4
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=67.59, Acc=49.08 [H=34932, D=2701, S=14051, I=9567, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm144 -GRAMMARSCALE 1.6
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=67.59, Acc=49.08 [H=34932, D=2701, S=14051, I=9567, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm144 -GRAMMARSCALE 1.8
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=67.59, Acc=49.08 [H=34932, D=2701, S=14051, I=9567, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm144 -GRAMMARSCALE 2.0
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=67.59, Acc=49.08 [H=34932, D=2701, S=14051, I=9567, N=51684]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm164 -GRAMMARSCALE 0.0
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=67.94, Acc=49.53 [H=35140, D=2680, S=13901, I=9522, N=51721]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm164 -GRAMMARSCALE 0.2
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=67.94, Acc=49.53 [H=35140, D=2680, S=13901, I=9522, N=51721]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm164 -GRAMMARSCALE 0.4
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=67.94, Acc=49.53 [H=35140, D=2680, S=13901, I=9522, N=51721]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm164 -GRAMMARSCALE 0.6
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=67.94, Acc=49.53 [H=35140, D=2680, S=13901, I=9522, N=51721]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm164 -GRAMMARSCALE 0.8
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=67.94, Acc=49.53 [H=35140, D=2680, S=13901, I=9522, N=51721]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm164 -GRAMMARSCALE 1.0
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=67.94, Acc=49.53 [H=35140, D=2680, S=13901, I=9522, N=51721]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm164 -GRAMMARSCALE 1.2
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=67.94, Acc=49.53 [H=35140, D=2680, S=13901, I=9522, N=51721]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm164 -GRAMMARSCALE 1.4
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=67.94, Acc=49.53 [H=35140, D=2680, S=13901, I=9522, N=51721]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm164 -GRAMMARSCALE 1.6
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=67.94, Acc=49.53 [H=35140, D=2680, S=13901, I=9522, N=51721]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm164 -GRAMMARSCALE 1.8
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=67.94, Acc=49.53 [H=35140, D=2680, S=13901, I=9522, N=51721]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm164 -GRAMMARSCALE 2.0
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=67.94, Acc=49.53 [H=35140, D=2680, S=13901, I=9522, N=51721]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm184 -GRAMMARSCALE 0.0
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=68.41, Acc=50.17 [H=35383, D=2619, S=13719, I=9432, N=51721]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm184 -GRAMMARSCALE 0.2
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=68.41, Acc=50.17 [H=35383, D=2619, S=13719, I=9432, N=51721]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm184 -GRAMMARSCALE 0.4
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=68.41, Acc=50.17 [H=35383, D=2619, S=13719, I=9432, N=51721]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm184 -GRAMMARSCALE 0.6
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=68.41, Acc=50.17 [H=35383, D=2619, S=13719, I=9432, N=51721]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm184 -GRAMMARSCALE 0.8
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=68.41, Acc=50.17 [H=35383, D=2619, S=13719, I=9432, N=51721]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm184 -GRAMMARSCALE 1.0
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=68.41, Acc=50.17 [H=35383, D=2619, S=13719, I=9432, N=51721]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm184 -GRAMMARSCALE 1.2
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=68.41, Acc=50.17 [H=35383, D=2619, S=13719, I=9432, N=51721]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm184 -GRAMMARSCALE 1.4
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=68.41, Acc=50.17 [H=35383, D=2619, S=13719, I=9432, N=51721]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm184 -GRAMMARSCALE 1.6
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=68.41, Acc=50.17 [H=35383, D=2619, S=13719, I=9432, N=51721]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm184 -GRAMMARSCALE 1.8
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=68.41, Acc=50.17 [H=35383, D=2619, S=13719, I=9432, N=51721]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm184 -GRAMMARSCALE 2.0
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=68.41, Acc=50.17 [H=35383, D=2619, S=13719, I=9432, N=51721]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm204 -GRAMMARSCALE 0.0
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=68.86, Acc=50.65 [H=35617, D=2581, S=13523, I=9421, N=51721]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm204 -GRAMMARSCALE 0.2
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=68.86, Acc=50.65 [H=35617, D=2581, S=13523, I=9421, N=51721]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm204 -GRAMMARSCALE 0.4
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=68.86, Acc=50.65 [H=35617, D=2581, S=13523, I=9421, N=51721]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm204 -GRAMMARSCALE 0.6
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=68.86, Acc=50.65 [H=35617, D=2581, S=13523, I=9421, N=51721]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm204 -GRAMMARSCALE 0.8
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=68.86, Acc=50.65 [H=35617, D=2581, S=13523, I=9421, N=51721]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm204 -GRAMMARSCALE 1.0
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=68.86, Acc=50.65 [H=35617, D=2581, S=13523, I=9421, N=51721]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm204 -GRAMMARSCALE 1.2
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=68.86, Acc=50.65 [H=35617, D=2581, S=13523, I=9421, N=51721]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm204 -GRAMMARSCALE 1.4
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=68.86, Acc=50.65 [H=35617, D=2581, S=13523, I=9421, N=51721]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm204 -GRAMMARSCALE 1.6
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=68.86, Acc=50.65 [H=35617, D=2581, S=13523, I=9421, N=51721]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm204 -GRAMMARSCALE 1.8
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=68.86, Acc=50.65 [H=35617, D=2581, S=13523, I=9421, N=51721]
+===================================================================
+FBK_D_Z_Flatstart20 decode-mono-hmm204 -GRAMMARSCALE 2.0
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=68.86, Acc=50.65 [H=35617, D=2581, S=13523, I=9421, N=51721]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm24 -GRAMMARSCALE 0.0
+SENT: %Correct=0.00 [H=0, S=1321, N=1321]
+WORD: %Corr=55.51, Acc=33.59 [H=28228, D=4018, S=18602, I=11150, N=50848]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm24 -GRAMMARSCALE 0.2
+SENT: %Correct=0.00 [H=0, S=1321, N=1321]
+WORD: %Corr=55.51, Acc=33.59 [H=28228, D=4018, S=18602, I=11150, N=50848]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm24 -GRAMMARSCALE 0.4
+SENT: %Correct=0.00 [H=0, S=1321, N=1321]
+WORD: %Corr=55.51, Acc=33.59 [H=28228, D=4018, S=18602, I=11150, N=50848]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm24 -GRAMMARSCALE 0.6
+SENT: %Correct=0.00 [H=0, S=1321, N=1321]
+WORD: %Corr=55.51, Acc=33.59 [H=28228, D=4018, S=18602, I=11150, N=50848]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm24 -GRAMMARSCALE 0.8
+SENT: %Correct=0.00 [H=0, S=1321, N=1321]
+WORD: %Corr=55.51, Acc=33.59 [H=28228, D=4018, S=18602, I=11150, N=50848]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm24 -GRAMMARSCALE 1.0
+SENT: %Correct=0.00 [H=0, S=1321, N=1321]
+WORD: %Corr=55.51, Acc=33.59 [H=28228, D=4018, S=18602, I=11150, N=50848]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm24 -GRAMMARSCALE 1.2
+SENT: %Correct=0.00 [H=0, S=1321, N=1321]
+WORD: %Corr=55.51, Acc=33.59 [H=28228, D=4018, S=18602, I=11150, N=50848]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm24 -GRAMMARSCALE 1.4
+SENT: %Correct=0.00 [H=0, S=1321, N=1321]
+WORD: %Corr=55.51, Acc=33.59 [H=28228, D=4018, S=18602, I=11150, N=50848]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm24 -GRAMMARSCALE 1.6
+SENT: %Correct=0.00 [H=0, S=1321, N=1321]
+WORD: %Corr=55.51, Acc=33.59 [H=28228, D=4018, S=18602, I=11150, N=50848]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm24 -GRAMMARSCALE 1.8
+SENT: %Correct=0.00 [H=0, S=1321, N=1321]
+WORD: %Corr=55.51, Acc=33.59 [H=28228, D=4018, S=18602, I=11150, N=50848]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm24 -GRAMMARSCALE 2.0
+SENT: %Correct=0.00 [H=0, S=1321, N=1321]
+WORD: %Corr=55.51, Acc=33.59 [H=28228, D=4018, S=18602, I=11150, N=50848]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm44 -GRAMMARSCALE 0.0
+SENT: %Correct=0.00 [H=0, S=1337, N=1337]
+WORD: %Corr=57.54, Acc=36.11 [H=29591, D=3983, S=17851, I=11019, N=51425]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm44 -GRAMMARSCALE 0.2
+SENT: %Correct=0.00 [H=0, S=1337, N=1337]
+WORD: %Corr=57.54, Acc=36.11 [H=29591, D=3983, S=17851, I=11019, N=51425]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm44 -GRAMMARSCALE 0.4
+SENT: %Correct=0.00 [H=0, S=1337, N=1337]
+WORD: %Corr=57.54, Acc=36.11 [H=29591, D=3983, S=17851, I=11019, N=51425]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm44 -GRAMMARSCALE 0.6
+SENT: %Correct=0.00 [H=0, S=1337, N=1337]
+WORD: %Corr=57.54, Acc=36.11 [H=29591, D=3983, S=17851, I=11019, N=51425]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm44 -GRAMMARSCALE 0.8
+SENT: %Correct=0.00 [H=0, S=1337, N=1337]
+WORD: %Corr=57.54, Acc=36.11 [H=29591, D=3983, S=17851, I=11019, N=51425]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm44 -GRAMMARSCALE 1.0
+SENT: %Correct=0.00 [H=0, S=1337, N=1337]
+WORD: %Corr=57.54, Acc=36.11 [H=29591, D=3983, S=17851, I=11019, N=51425]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm44 -GRAMMARSCALE 1.2
+SENT: %Correct=0.00 [H=0, S=1337, N=1337]
+WORD: %Corr=57.54, Acc=36.11 [H=29591, D=3983, S=17851, I=11019, N=51425]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm44 -GRAMMARSCALE 1.4
+SENT: %Correct=0.00 [H=0, S=1337, N=1337]
+WORD: %Corr=57.54, Acc=36.11 [H=29591, D=3983, S=17851, I=11019, N=51425]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm44 -GRAMMARSCALE 1.6
+SENT: %Correct=0.00 [H=0, S=1337, N=1337]
+WORD: %Corr=57.54, Acc=36.11 [H=29591, D=3983, S=17851, I=11019, N=51425]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm44 -GRAMMARSCALE 1.8
+SENT: %Correct=0.00 [H=0, S=1337, N=1337]
+WORD: %Corr=57.54, Acc=36.11 [H=29591, D=3983, S=17851, I=11019, N=51425]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm44 -GRAMMARSCALE 2.0
+SENT: %Correct=0.00 [H=0, S=1337, N=1337]
+WORD: %Corr=57.54, Acc=36.11 [H=29591, D=3983, S=17851, I=11019, N=51425]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm64 -GRAMMARSCALE 0.0
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=58.71, Acc=36.43 [H=30364, D=3836, S=17521, I=11524, N=51721]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm64 -GRAMMARSCALE 0.2
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=58.71, Acc=36.43 [H=30364, D=3836, S=17521, I=11524, N=51721]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm64 -GRAMMARSCALE 0.4
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=58.71, Acc=36.43 [H=30364, D=3836, S=17521, I=11524, N=51721]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm64 -GRAMMARSCALE 0.6
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=58.71, Acc=36.43 [H=30364, D=3836, S=17521, I=11524, N=51721]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm64 -GRAMMARSCALE 0.8
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=58.71, Acc=36.43 [H=30364, D=3836, S=17521, I=11524, N=51721]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm64 -GRAMMARSCALE 1.0
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=58.71, Acc=36.43 [H=30364, D=3836, S=17521, I=11524, N=51721]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm64 -GRAMMARSCALE 1.2
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=58.71, Acc=36.43 [H=30364, D=3836, S=17521, I=11524, N=51721]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm64 -GRAMMARSCALE 1.4
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=58.71, Acc=36.43 [H=30364, D=3836, S=17521, I=11524, N=51721]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm64 -GRAMMARSCALE 1.6
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=58.71, Acc=36.43 [H=30364, D=3836, S=17521, I=11524, N=51721]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm64 -GRAMMARSCALE 1.8
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=58.71, Acc=36.43 [H=30364, D=3836, S=17521, I=11524, N=51721]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm64 -GRAMMARSCALE 2.0
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=58.71, Acc=36.43 [H=30364, D=3836, S=17521, I=11524, N=51721]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm84 -GRAMMARSCALE 0.0
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=59.79, Acc=37.13 [H=30922, D=3684, S=17115, I=11716, N=51721]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm84 -GRAMMARSCALE 0.2
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=59.79, Acc=37.13 [H=30922, D=3684, S=17115, I=11716, N=51721]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm84 -GRAMMARSCALE 0.4
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=59.79, Acc=37.13 [H=30922, D=3684, S=17115, I=11716, N=51721]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm84 -GRAMMARSCALE 0.6
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=59.79, Acc=37.13 [H=30922, D=3684, S=17115, I=11716, N=51721]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm84 -GRAMMARSCALE 0.8
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=59.79, Acc=37.13 [H=30922, D=3684, S=17115, I=11716, N=51721]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm84 -GRAMMARSCALE 1.0
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=59.79, Acc=37.13 [H=30922, D=3684, S=17115, I=11716, N=51721]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm84 -GRAMMARSCALE 1.2
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=59.79, Acc=37.13 [H=30922, D=3684, S=17115, I=11716, N=51721]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm84 -GRAMMARSCALE 1.4
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=59.79, Acc=37.13 [H=30922, D=3684, S=17115, I=11716, N=51721]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm84 -GRAMMARSCALE 1.6
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=59.79, Acc=37.13 [H=30922, D=3684, S=17115, I=11716, N=51721]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm84 -GRAMMARSCALE 1.8
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=59.79, Acc=37.13 [H=30922, D=3684, S=17115, I=11716, N=51721]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm84 -GRAMMARSCALE 2.0
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=59.79, Acc=37.13 [H=30922, D=3684, S=17115, I=11716, N=51721]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm104 -GRAMMARSCALE 0.0
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=60.50, Acc=37.00 [H=31246, D=3460, S=16942, I=12138, N=51648]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm104 -GRAMMARSCALE 0.2
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=60.50, Acc=37.00 [H=31246, D=3460, S=16942, I=12138, N=51648]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm104 -GRAMMARSCALE 0.4
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=60.50, Acc=37.00 [H=31246, D=3460, S=16942, I=12138, N=51648]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm104 -GRAMMARSCALE 0.6
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=60.50, Acc=37.00 [H=31246, D=3460, S=16942, I=12138, N=51648]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm104 -GRAMMARSCALE 0.8
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=60.50, Acc=37.00 [H=31246, D=3460, S=16942, I=12138, N=51648]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm104 -GRAMMARSCALE 1.0
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=60.50, Acc=37.00 [H=31246, D=3460, S=16942, I=12138, N=51648]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm104 -GRAMMARSCALE 1.2
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=60.50, Acc=37.00 [H=31246, D=3460, S=16942, I=12138, N=51648]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm104 -GRAMMARSCALE 1.4
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=60.50, Acc=37.00 [H=31246, D=3460, S=16942, I=12138, N=51648]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm104 -GRAMMARSCALE 1.6
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=60.50, Acc=37.00 [H=31246, D=3460, S=16942, I=12138, N=51648]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm104 -GRAMMARSCALE 1.8
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=60.50, Acc=37.00 [H=31246, D=3460, S=16942, I=12138, N=51648]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm104 -GRAMMARSCALE 2.0
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=60.50, Acc=37.00 [H=31246, D=3460, S=16942, I=12138, N=51648]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm124 -GRAMMARSCALE 0.0
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=61.19, Acc=37.63 [H=31611, D=3370, S=16682, I=12171, N=51663]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm124 -GRAMMARSCALE 0.2
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=61.19, Acc=37.63 [H=31611, D=3370, S=16682, I=12171, N=51663]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm124 -GRAMMARSCALE 0.4
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=61.19, Acc=37.63 [H=31611, D=3370, S=16682, I=12171, N=51663]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm124 -GRAMMARSCALE 0.6
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=61.19, Acc=37.63 [H=31611, D=3370, S=16682, I=12171, N=51663]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm124 -GRAMMARSCALE 0.8
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=61.19, Acc=37.63 [H=31611, D=3370, S=16682, I=12171, N=51663]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm124 -GRAMMARSCALE 1.0
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=61.19, Acc=37.63 [H=31611, D=3370, S=16682, I=12171, N=51663]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm124 -GRAMMARSCALE 1.2
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=61.19, Acc=37.63 [H=31611, D=3370, S=16682, I=12171, N=51663]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm124 -GRAMMARSCALE 1.4
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=61.19, Acc=37.63 [H=31611, D=3370, S=16682, I=12171, N=51663]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm124 -GRAMMARSCALE 1.6
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=61.19, Acc=37.63 [H=31611, D=3370, S=16682, I=12171, N=51663]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm124 -GRAMMARSCALE 1.8
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=61.19, Acc=37.63 [H=31611, D=3370, S=16682, I=12171, N=51663]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm124 -GRAMMARSCALE 2.0
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=61.19, Acc=37.63 [H=31611, D=3370, S=16682, I=12171, N=51663]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm144 -GRAMMARSCALE 0.0
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=61.51, Acc=37.89 [H=31797, D=3346, S=16554, I=12207, N=51697]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm144 -GRAMMARSCALE 0.2
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=61.51, Acc=37.89 [H=31797, D=3346, S=16554, I=12207, N=51697]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm144 -GRAMMARSCALE 0.4
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=61.51, Acc=37.89 [H=31797, D=3346, S=16554, I=12207, N=51697]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm144 -GRAMMARSCALE 0.6
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=61.51, Acc=37.89 [H=31797, D=3346, S=16554, I=12207, N=51697]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm144 -GRAMMARSCALE 0.8
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=61.51, Acc=37.89 [H=31797, D=3346, S=16554, I=12207, N=51697]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm144 -GRAMMARSCALE 1.0
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=61.51, Acc=37.89 [H=31797, D=3346, S=16554, I=12207, N=51697]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm144 -GRAMMARSCALE 1.2
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=61.51, Acc=37.89 [H=31797, D=3346, S=16554, I=12207, N=51697]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm144 -GRAMMARSCALE 1.4
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=61.51, Acc=37.89 [H=31797, D=3346, S=16554, I=12207, N=51697]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm144 -GRAMMARSCALE 1.6
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=61.51, Acc=37.89 [H=31797, D=3346, S=16554, I=12207, N=51697]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm144 -GRAMMARSCALE 1.8
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=61.51, Acc=37.89 [H=31797, D=3346, S=16554, I=12207, N=51697]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm144 -GRAMMARSCALE 2.0
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=61.51, Acc=37.89 [H=31797, D=3346, S=16554, I=12207, N=51697]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm164 -GRAMMARSCALE 0.0
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=61.73, Acc=38.09 [H=31904, D=3267, S=16511, I=12220, N=51682]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm164 -GRAMMARSCALE 0.2
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=61.73, Acc=38.09 [H=31904, D=3267, S=16511, I=12220, N=51682]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm164 -GRAMMARSCALE 0.4
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=61.73, Acc=38.09 [H=31904, D=3267, S=16511, I=12220, N=51682]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm164 -GRAMMARSCALE 0.6
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=61.73, Acc=38.09 [H=31904, D=3267, S=16511, I=12220, N=51682]
+===================================================================
+FBK_Z_Flatstart20 decode-mono-hmm164 -GRAMMARSCALE 0.8
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=61.73, Acc=38.09 [H=31904, D=3267, S=16511, I=12220, N=51682]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm24 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=1341, N=1341]
+WORD: %Corr=58.41, Acc=41.19 [H=30141, D=4462, S=17000, I=8884, N=51603]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm24 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=1341, N=1341]
+WORD: %Corr=58.41, Acc=41.19 [H=30141, D=4462, S=17000, I=8884, N=51603]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm24 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=1341, N=1341]
+WORD: %Corr=58.41, Acc=41.19 [H=30141, D=4462, S=17000, I=8884, N=51603]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm24 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=1341, N=1341]
+WORD: %Corr=58.41, Acc=41.19 [H=30141, D=4462, S=17000, I=8884, N=51603]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm24 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=1341, N=1341]
+WORD: %Corr=58.41, Acc=41.19 [H=30141, D=4462, S=17000, I=8884, N=51603]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm24 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=1341, N=1341]
+WORD: %Corr=58.41, Acc=41.19 [H=30141, D=4462, S=17000, I=8884, N=51603]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm24 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=1341, N=1341]
+WORD: %Corr=58.41, Acc=41.19 [H=30141, D=4462, S=17000, I=8884, N=51603]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm24 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=1341, N=1341]
+WORD: %Corr=58.41, Acc=41.19 [H=30141, D=4462, S=17000, I=8884, N=51603]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm24 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=1341, N=1341]
+WORD: %Corr=58.41, Acc=41.19 [H=30141, D=4462, S=17000, I=8884, N=51603]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm24 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=1341, N=1341]
+WORD: %Corr=58.41, Acc=41.19 [H=30141, D=4462, S=17000, I=8884, N=51603]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm24 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=1341, N=1341]
+WORD: %Corr=58.41, Acc=41.19 [H=30141, D=4462, S=17000, I=8884, N=51603]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm24 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=1341, N=1341]
+WORD: %Corr=58.41, Acc=41.19 [H=30141, D=4462, S=17000, I=8884, N=51603]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm24 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=1341, N=1341]
+WORD: %Corr=58.41, Acc=41.19 [H=30141, D=4462, S=17000, I=8884, N=51603]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm24 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=1341, N=1341]
+WORD: %Corr=58.41, Acc=41.19 [H=30141, D=4462, S=17000, I=8884, N=51603]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm44 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=59.91, Acc=42.18 [H=30986, D=4161, S=16574, I=9169, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm44 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=59.91, Acc=42.18 [H=30986, D=4161, S=16574, I=9169, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm44 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=59.91, Acc=42.18 [H=30986, D=4161, S=16574, I=9169, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm44 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=59.91, Acc=42.18 [H=30986, D=4161, S=16574, I=9169, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm44 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=59.91, Acc=42.18 [H=30986, D=4161, S=16574, I=9169, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm44 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=59.91, Acc=42.18 [H=30986, D=4161, S=16574, I=9169, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm44 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=59.91, Acc=42.18 [H=30986, D=4161, S=16574, I=9169, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm44 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=59.91, Acc=42.18 [H=30986, D=4161, S=16574, I=9169, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm44 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=59.91, Acc=42.18 [H=30986, D=4161, S=16574, I=9169, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm44 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=59.91, Acc=42.18 [H=30986, D=4161, S=16574, I=9169, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm44 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=59.91, Acc=42.18 [H=30986, D=4161, S=16574, I=9169, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm44 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=59.91, Acc=42.18 [H=30986, D=4161, S=16574, I=9169, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm44 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=59.91, Acc=42.18 [H=30986, D=4161, S=16574, I=9169, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm44 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=59.91, Acc=42.18 [H=30986, D=4161, S=16574, I=9169, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm64 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=61.14, Acc=42.90 [H=31622, D=3993, S=16106, I=9432, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm64 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=61.14, Acc=42.90 [H=31622, D=3993, S=16106, I=9432, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm64 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=61.14, Acc=42.90 [H=31622, D=3993, S=16106, I=9432, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm64 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=61.14, Acc=42.90 [H=31622, D=3993, S=16106, I=9432, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm64 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=61.14, Acc=42.90 [H=31622, D=3993, S=16106, I=9432, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm64 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=61.14, Acc=42.90 [H=31622, D=3993, S=16106, I=9432, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm64 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=61.14, Acc=42.90 [H=31622, D=3993, S=16106, I=9432, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm64 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=61.14, Acc=42.90 [H=31622, D=3993, S=16106, I=9432, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm64 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=61.14, Acc=42.90 [H=31622, D=3993, S=16106, I=9432, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm64 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=61.14, Acc=42.90 [H=31622, D=3993, S=16106, I=9432, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm64 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=61.14, Acc=42.90 [H=31622, D=3993, S=16106, I=9432, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm64 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=61.14, Acc=42.90 [H=31622, D=3993, S=16106, I=9432, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm64 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=61.14, Acc=42.90 [H=31622, D=3993, S=16106, I=9432, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm64 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=61.14, Acc=42.90 [H=31622, D=3993, S=16106, I=9432, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm84 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=61.85, Acc=43.40 [H=31992, D=3899, S=15830, I=9543, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm84 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=61.85, Acc=43.40 [H=31992, D=3899, S=15830, I=9543, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm84 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=61.85, Acc=43.40 [H=31992, D=3899, S=15830, I=9543, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm84 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=61.85, Acc=43.40 [H=31992, D=3899, S=15830, I=9543, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm84 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=61.85, Acc=43.40 [H=31992, D=3899, S=15830, I=9543, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm84 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=61.85, Acc=43.40 [H=31992, D=3899, S=15830, I=9543, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm84 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=61.85, Acc=43.40 [H=31992, D=3899, S=15830, I=9543, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm84 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=61.85, Acc=43.40 [H=31992, D=3899, S=15830, I=9543, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm84 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=61.85, Acc=43.40 [H=31992, D=3899, S=15830, I=9543, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm84 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=61.85, Acc=43.40 [H=31992, D=3899, S=15830, I=9543, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm84 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=61.85, Acc=43.40 [H=31992, D=3899, S=15830, I=9543, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm84 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=61.85, Acc=43.40 [H=31992, D=3899, S=15830, I=9543, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm84 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=61.85, Acc=43.40 [H=31992, D=3899, S=15830, I=9543, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm84 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=61.85, Acc=43.40 [H=31992, D=3899, S=15830, I=9543, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm104 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=62.53, Acc=43.69 [H=32341, D=3758, S=15622, I=9742, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm104 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=62.53, Acc=43.69 [H=32341, D=3758, S=15622, I=9742, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm104 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=62.53, Acc=43.69 [H=32341, D=3758, S=15622, I=9742, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm104 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=62.53, Acc=43.69 [H=32341, D=3758, S=15622, I=9742, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm104 -GRAMMARSCALE 4
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=62.53, Acc=43.69 [H=32341, D=3758, S=15622, I=9742, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm104 -GRAMMARSCALE 5
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=62.53, Acc=43.69 [H=32341, D=3758, S=15622, I=9742, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm104 -GRAMMARSCALE 6
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=62.53, Acc=43.69 [H=32341, D=3758, S=15622, I=9742, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm104 -GRAMMARSCALE 7
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=62.53, Acc=43.69 [H=32341, D=3758, S=15622, I=9742, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm104 -GRAMMARSCALE 8
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=62.53, Acc=43.69 [H=32341, D=3758, S=15622, I=9742, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm104 -GRAMMARSCALE 9
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=62.53, Acc=43.69 [H=32341, D=3758, S=15622, I=9742, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm104 -GRAMMARSCALE 10
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=62.53, Acc=43.69 [H=32341, D=3758, S=15622, I=9742, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm104 -GRAMMARSCALE 11
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=62.53, Acc=43.69 [H=32341, D=3758, S=15622, I=9742, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm104 -GRAMMARSCALE 12
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=62.53, Acc=43.69 [H=32341, D=3758, S=15622, I=9742, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm104 -GRAMMARSCALE 13
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=62.53, Acc=43.69 [H=32341, D=3758, S=15622, I=9742, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm124 -GRAMMARSCALE 0
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=62.92, Acc=43.95 [H=32543, D=3733, S=15445, I=9813, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm124 -GRAMMARSCALE 1
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=62.92, Acc=43.95 [H=32543, D=3733, S=15445, I=9813, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm124 -GRAMMARSCALE 2
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=62.92, Acc=43.95 [H=32543, D=3733, S=15445, I=9813, N=51721]
+===================================================================
+MFC_E_Z_Init20 decode-mono-hmm124 -GRAMMARSCALE 3
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=62.92, Acc=43.95 [H=32543, D=3733, S=15445, I=9813, N=51721]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm24 -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=1320, N=1320]
+WORD: %Corr=55.11, Acc=36.26 [H=28008, D=4209, S=18603, I=9581, N=50820]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm24 -INSWORD 1
+SENT: %Correct=0.00 [H=0, S=1320, N=1320]
+WORD: %Corr=55.50, Acc=34.89 [H=28203, D=3937, S=18680, I=10474, N=50820]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm24 -INSWORD 2
+SENT: %Correct=0.00 [H=0, S=1320, N=1320]
+WORD: %Corr=55.90, Acc=33.35 [H=28407, D=3644, S=18769, I=11456, N=50820]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm24 -INSWORD 3
+SENT: %Correct=0.00 [H=0, S=1320, N=1320]
+WORD: %Corr=56.20, Acc=31.42 [H=28564, D=3331, S=18927, I=12595, N=50822]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm24 -INSWORD 4
+SENT: %Correct=0.00 [H=0, S=1320, N=1320]
+WORD: %Corr=56.70, Acc=29.22 [H=28816, D=3064, S=18942, I=13966, N=50822]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm44 -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=1328, N=1328]
+WORD: %Corr=56.80, Acc=36.80 [H=29017, D=4120, S=17949, I=10215, N=51086]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm44 -INSWORD 1
+SENT: %Correct=0.00 [H=0, S=1328, N=1328]
+WORD: %Corr=57.26, Acc=34.89 [H=29253, D=3791, S=18042, I=11430, N=51086]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm44 -INSWORD 2
+SENT: %Correct=0.00 [H=0, S=1328, N=1328]
+WORD: %Corr=57.73, Acc=32.83 [H=29490, D=3488, S=18108, I=12716, N=51086]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm44 -INSWORD 3
+SENT: %Correct=0.00 [H=0, S=1328, N=1328]
+WORD: %Corr=58.19, Acc=30.39 [H=29729, D=3166, S=18191, I=14203, N=51086]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm44 -INSWORD 4
+SENT: %Correct=0.00 [H=0, S=1329, N=1329]
+WORD: %Corr=58.71, Acc=27.63 [H=30007, D=2873, S=18233, I=15886, N=51113]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm64 -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=1333, N=1333]
+WORD: %Corr=58.50, Acc=37.18 [H=30028, D=3784, S=17522, I=10944, N=51334]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm64 -INSWORD 1
+SENT: %Correct=0.00 [H=0, S=1334, N=1334]
+WORD: %Corr=59.05, Acc=35.22 [H=30344, D=3449, S=17592, I=12244, N=51385]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm64 -INSWORD 2
+SENT: %Correct=0.00 [H=0, S=1335, N=1335]
+WORD: %Corr=59.50, Acc=32.95 [H=30599, D=3128, S=17698, I=13654, N=51425]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm64 -INSWORD 3
+SENT: %Correct=0.00 [H=0, S=1335, N=1335]
+WORD: %Corr=59.98, Acc=30.34 [H=30846, D=2836, S=17743, I=15243, N=51425]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm64 -INSWORD 4
+SENT: %Correct=0.00 [H=0, S=1335, N=1335]
+WORD: %Corr=60.41, Acc=27.17 [H=31065, D=2561, S=17799, I=17093, N=51425]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm84 -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=1341, N=1341]
+WORD: %Corr=59.46, Acc=37.33 [H=30708, D=3705, S=17235, I=11428, N=51648]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm84 -INSWORD 1
+SENT: %Correct=0.00 [H=0, S=1341, N=1341]
+WORD: %Corr=59.91, Acc=35.29 [H=30941, D=3393, S=17314, I=12715, N=51648]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm84 -INSWORD 2
+SENT: %Correct=0.00 [H=0, S=1341, N=1341]
+WORD: %Corr=60.34, Acc=32.79 [H=31164, D=3036, S=17448, I=14230, N=51648]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm84 -INSWORD 3
+SENT: %Correct=0.00 [H=0, S=1341, N=1341]
+WORD: %Corr=60.87, Acc=30.01 [H=31437, D=2768, S=17443, I=15939, N=51648]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm84 -INSWORD 4
+SENT: %Correct=0.00 [H=0, S=1341, N=1341]
+WORD: %Corr=61.41, Acc=27.02 [H=31716, D=2497, S=17435, I=17763, N=51648]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm104 -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=60.22, Acc=37.89 [H=31146, D=3590, S=16985, I=11550, N=51721]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm104 -INSWORD 1
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=60.67, Acc=35.62 [H=31379, D=3231, S=17111, I=12955, N=51721]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm104 -INSWORD 2
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=61.16, Acc=33.11 [H=31633, D=2916, S=17172, I=14508, N=51721]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm104 -INSWORD 3
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=61.71, Acc=30.43 [H=31918, D=2605, S=17198, I=16179, N=51721]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm104 -INSWORD 4
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=62.26, Acc=27.28 [H=32202, D=2308, S=17211, I=18090, N=51721]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm124 -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=60.75, Acc=38.21 [H=31390, D=3427, S=16857, I=11647, N=51674]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm124 -INSWORD 1
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=61.24, Acc=36.09 [H=31644, D=3074, S=16956, I=12994, N=51674]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm124 -INSWORD 2
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=61.68, Acc=33.48 [H=31874, D=2780, S=17020, I=14571, N=51674]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm124 -INSWORD 3
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=62.14, Acc=30.48 [H=32108, D=2446, S=17120, I=16358, N=51674]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm124 -INSWORD 4
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=62.72, Acc=27.12 [H=32410, D=2177, S=17087, I=18395, N=51674]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm144 -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=1340, N=1340]
+WORD: %Corr=61.22, Acc=38.67 [H=31588, D=3380, S=16630, I=11635, N=51598]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm144 -INSWORD 1
+SENT: %Correct=0.00 [H=0, S=1340, N=1340]
+WORD: %Corr=61.74, Acc=36.33 [H=31858, D=3041, S=16699, I=13110, N=51598]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm144 -INSWORD 2
+SENT: %Correct=0.00 [H=0, S=1340, N=1340]
+WORD: %Corr=62.28, Acc=33.70 [H=32134, D=2739, S=16725, I=14746, N=51598]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm144 -INSWORD 3
+SENT: %Correct=0.00 [H=0, S=1341, N=1341]
+WORD: %Corr=62.73, Acc=30.67 [H=32392, D=2435, S=16811, I=16557, N=51638]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm144 -INSWORD 4
+SENT: %Correct=0.00 [H=0, S=1341, N=1341]
+WORD: %Corr=63.15, Acc=27.19 [H=32611, D=2138, S=16889, I=18572, N=51638]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm164 -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=61.58, Acc=38.86 [H=31803, D=3349, S=16492, I=11733, N=51644]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm164 -INSWORD 1
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=62.16, Acc=36.51 [H=32104, D=3004, S=16536, I=13251, N=51644]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm164 -INSWORD 2
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=62.62, Acc=33.73 [H=32338, D=2694, S=16612, I=14919, N=51644]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm164 -INSWORD 3
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=63.09, Acc=30.67 [H=32609, D=2425, S=16651, I=16756, N=51685]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm164 -INSWORD 4
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=63.58, Acc=27.16 [H=32886, D=2144, S=16691, I=18837, N=51721]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm184 -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=62.03, Acc=38.90 [H=32084, D=3316, S=16321, I=11963, N=51721]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm184 -INSWORD 1
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=62.57, Acc=36.58 [H=32364, D=2952, S=16405, I=13446, N=51721]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm184 -INSWORD 2
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=63.07, Acc=33.87 [H=32622, D=2673, S=16426, I=15104, N=51721]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm184 -INSWORD 3
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=63.59, Acc=30.70 [H=32888, D=2372, S=16461, I=17012, N=51721]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm184 -INSWORD 4
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=64.11, Acc=27.17 [H=33158, D=2131, S=16432, I=19104, N=51721]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm204 -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=62.13, Acc=38.83 [H=32082, D=3374, S=16184, I=12029, N=51640]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm204 -INSWORD 1
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=62.71, Acc=36.51 [H=32423, D=3004, S=16279, I=13547, N=51706]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm204 -INSWORD 2
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=63.20, Acc=33.62 [H=32678, D=2725, S=16303, I=15294, N=51706]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm204 -INSWORD 3
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=63.71, Acc=30.46 [H=32942, D=2405, S=16359, I=17191, N=51706]
+===================================================================
+FBK_Z_Init20 decode-mono-hmm204 -INSWORD 4
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=64.22, Acc=27.00 [H=33207, D=2115, S=16384, I=19246, N=51706]
+===================================================================
+FBK_D_Z_Init20 decode-mono-hmm24 -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=1333, N=1333]
+WORD: %Corr=58.50, Acc=37.78 [H=30004, D=3282, S=18003, I=10629, N=51289]
+===================================================================
+FBK_D_Z_Init20 decode-mono-hmm24 -INSWORD 1
+SENT: %Correct=0.00 [H=0, S=1333, N=1333]
+WORD: %Corr=58.66, Acc=37.20 [H=30086, D=3180, S=18023, I=11008, N=51289]
+===================================================================
+FBK_D_Z_Init20 decode-mono-hmm24 -INSWORD 2
+SENT: %Correct=0.00 [H=0, S=1333, N=1333]
+WORD: %Corr=58.80, Acc=36.51 [H=30160, D=3078, S=18051, I=11433, N=51289]
+===================================================================
+FBK_D_Z_Init20 decode-mono-hmm24 -INSWORD 3
+SENT: %Correct=0.00 [H=0, S=1333, N=1333]
+WORD: %Corr=58.93, Acc=35.85 [H=30227, D=2978, S=18084, I=11838, N=51289]
+===================================================================
+FBK_D_Z_Init20 decode-mono-hmm24 -INSWORD 4
+SENT: %Correct=0.00 [H=0, S=1333, N=1333]
+WORD: %Corr=59.04, Acc=35.23 [H=30282, D=2896, S=18111, I=12215, N=51289]
+===================================================================
+FBK_D_Z_Init20 decode-mono-hmm44 -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=60.93, Acc=41.99 [H=31482, D=3394, S=16793, I=9786, N=51669]
+===================================================================
+FBK_D_Z_Init20 decode-mono-hmm44 -INSWORD 1
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=61.05, Acc=41.38 [H=31545, D=3280, S=16844, I=10165, N=51669]
+===================================================================
+FBK_D_Z_Init20 decode-mono-hmm44 -INSWORD 2
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=61.20, Acc=40.70 [H=31624, D=3168, S=16877, I=10593, N=51669]
+===================================================================
+FBK_D_Z_Init20 decode-mono-hmm44 -INSWORD 3
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=61.36, Acc=40.08 [H=31705, D=3075, S=16889, I=10996, N=51669]
+===================================================================
+FBK_D_Z_Init20 decode-mono-hmm44 -INSWORD 4
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=61.51, Acc=39.35 [H=31781, D=2966, S=16922, I=11448, N=51669]
+===================================================================
+FBK_D_Z_Init20 decode-mono-hmm64 -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=63.73, Acc=44.59 [H=32927, D=3170, S=15572, I=9888, N=51669]
+===================================================================
+FBK_D_Z_Init20 decode-mono-hmm64 -INSWORD 1
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=63.87, Acc=43.95 [H=33000, D=3027, S=15642, I=10290, N=51669]
+===================================================================
+FBK_D_Z_Init20 decode-mono-hmm64 -INSWORD 2
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=63.99, Acc=43.20 [H=33065, D=2927, S=15677, I=10745, N=51669]
+===================================================================
+FBK_D_Z_Init20 decode-mono-hmm64 -INSWORD 3
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=64.17, Acc=42.43 [H=33156, D=2806, S=15707, I=11235, N=51669]
+===================================================================
+FBK_D_Z_Init20 decode-mono-hmm64 -INSWORD 4
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=64.35, Acc=41.69 [H=33249, D=2709, S=15711, I=11709, N=51669]
+===================================================================
+FBK_D_Z_Init20 decode-mono-hmm84 -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=65.01, Acc=46.01 [H=33591, D=2928, S=15150, I=9816, N=51669]
+===================================================================
+FBK_D_Z_Init20 decode-mono-hmm84 -INSWORD 1
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=65.17, Acc=45.26 [H=33674, D=2812, S=15183, I=10288, N=51669]
+===================================================================
+FBK_D_Z_Init20 decode-mono-hmm84 -INSWORD 2
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=65.32, Acc=44.45 [H=33752, D=2701, S=15216, I=10785, N=51669]
+===================================================================
+FBK_D_Z_Init20 decode-mono-hmm84 -INSWORD 3
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=65.55, Acc=43.65 [H=33869, D=2566, S=15234, I=11317, N=51669]
+===================================================================
+FBK_D_Z_Init20 decode-mono-hmm84 -INSWORD 4
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=65.71, Acc=42.78 [H=33951, D=2471, S=15247, I=11847, N=51669]
+===================================================================
+FBK_D_Z_Init20 decode-mono-hmm104 -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=1341, N=1341]
+WORD: %Corr=66.24, Acc=46.94 [H=34203, D=2780, S=14651, I=9967, N=51634]
+===================================================================
+FBK_D_Z_Init20 decode-mono-hmm104 -INSWORD 1
+SENT: %Correct=0.00 [H=0, S=1341, N=1341]
+WORD: %Corr=66.41, Acc=46.21 [H=34291, D=2647, S=14696, I=10433, N=51634]
+===================================================================
+FBK_D_Z_Init20 decode-mono-hmm104 -INSWORD 2
+SENT: %Correct=0.00 [H=0, S=1341, N=1341]
+WORD: %Corr=66.57, Acc=45.39 [H=34372, D=2544, S=14718, I=10936, N=51634]
+===================================================================
+FBK_D_Z_Init20 decode-mono-hmm104 -INSWORD 3
+SENT: %Correct=0.00 [H=0, S=1341, N=1341]
+WORD: %Corr=66.72, Acc=44.53 [H=34451, D=2451, S=14732, I=11460, N=51634]
+===================================================================
+FBK_D_Z_Init20 decode-mono-hmm104 -INSWORD 4
+SENT: %Correct=0.00 [H=0, S=1341, N=1341]
+WORD: %Corr=66.95, Acc=43.66 [H=34568, D=2342, S=14724, I=12026, N=51634]
+===================================================================
+FBK_D_Z_Init20 decode-mono-hmm124 -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=67.05, Acc=47.80 [H=34646, D=2619, S=14404, I=9946, N=51669]
+===================================================================
+FBK_D_Z_Init20 decode-mono-hmm124 -INSWORD 1
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=67.24, Acc=47.05 [H=34742, D=2516, S=14411, I=10432, N=51669]
+===================================================================
+FBK_D_Z_Init20 decode-mono-hmm124 -INSWORD 2
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=67.44, Acc=46.22 [H=34845, D=2402, S=14422, I=10964, N=51669]
+===================================================================
+FBK_D_Z_Init20 decode-mono-hmm124 -INSWORD 3
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=67.60, Acc=45.29 [H=34926, D=2292, S=14451, I=11524, N=51669]
+===================================================================
+FBK_D_Z_Init20 decode-mono-hmm124 -INSWORD 4
+SENT: %Correct=0.00 [H=0, S=1342, N=1342]
+WORD: %Corr=67.82, Acc=44.35 [H=35040, D=2182, S=14447, I=12124, N=51669]
+===================================================================
+FBK_D_Z_Init20 decode-mono-hmm144 -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=67.64, Acc=48.64 [H=34972, D=2650, S=14084, I=9823, N=51706]
+===================================================================
+FBK_D_Z_Init20 decode-mono-hmm144 -INSWORD 1
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=67.80, Acc=47.89 [H=35056, D=2552, S=14098, I=10293, N=51706]
+===================================================================
+FBK_D_Z_Init20 decode-mono-hmm144 -INSWORD 2
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=67.99, Acc=47.10 [H=35154, D=2440, S=14112, I=10799, N=51706]
+===================================================================
+FBK_D_Z_Init20 decode-mono-hmm144 -INSWORD 3
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=68.18, Acc=46.28 [H=35254, D=2319, S=14133, I=11327, N=51706]
+===================================================================
+FBK_D_Z_Init20 decode-mono-hmm144 -INSWORD 4
+SENT: %Correct=0.00 [H=0, S=1343, N=1343]
+WORD: %Corr=68.39, Acc=45.28 [H=35362, D=2206, S=14138, I=11951, N=51706]
+===================================================================
+FBK_D_Z_Init20 decode-mono-hmm164 -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=68.36, Acc=49.20 [H=35355, D=2645, S=13721, I=9908, N=51721]
+===================================================================
+FBK_D_Z_Init20 decode-mono-hmm164 -INSWORD 1
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=68.54, Acc=48.41 [H=35449, D=2497, S=13775, I=10412, N=51721]
+===================================================================
+FBK_D_Z_Init20 decode-mono-hmm164 -INSWORD 2
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=68.78, Acc=47.62 [H=35573, D=2384, S=13764, I=10945, N=51721]
+===================================================================
+FBK_D_Z_Init20 decode-mono-hmm164 -INSWORD 3
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=68.97, Acc=46.74 [H=35674, D=2264, S=13783, I=11498, N=51721]
+===================================================================
+FBK_D_Z_Init20 decode-mono-hmm164 -INSWORD 4
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=69.17, Acc=45.89 [H=35774, D=2129, S=13818, I=12037, N=51721]
+===================================================================
+FBK_D_Z_Init20 decode-mono-hmm184 -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=1344, N=1344]
+WORD: %Corr=68.79, Acc=49.68 [H=35578, D=2630, S=13513, I=9882, N=51721]
+===================================================================
