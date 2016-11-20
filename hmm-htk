@@ -32,26 +32,42 @@ for file in FBK_Z_Init20 FBK_D_Z_Init20 FBK_D_A_Z_Init20 FBK_D_A_Z_Flatstart20 F
 	done
 done
 
-#Decoding without options - Missing:Pruning with BEAMWIDTH
-for option in CORETEST SUBTRAIN INSWORD GRAMMARSCALE
+#Decoding without options - DONE - Missing:Pruning with BEAMWIDTH
+for option in  CORETEST SUBTRAIN
   do 
     for file in FBK_Z_Init20 FBK_D_Z_Init20 FBK_D_A_Z_Init20 FBK_D_A_Z_Flatstart20 FBK_D_Z_Flatstart20 FBK_Z_Flatstart20 MFC_E_Z_Init20 MFC_E_D_Z_Init20 MFC_E_D_A_Z_Init20 MFC_E_D_A_Z_Flatstart20 MFC_E_D_Z_Flatstart20 MFC_E_Z_Flatstart20
     do
       for i in $(seq 2 2 20)
+	do
+        hmm=hmm${i}4
+        filename=decode-mono-$hmm 
+            ../tools/steps/step-decode -$option $PWD/$file/mono $hmm $file/$option/$filename
+            echo $file $filename -$option 
+            echo $file $filename -$option >>text.txt
+	    grep -A2 -P 'SENT' $file/$option/$filename/test/LOG >>text.txt
+	done 
+     done 
+done
+	
+
+#Decoding without options - Missing:Pruning with BEAMWIDTH
+for option in GRAMMARSCALE INSWORD
+  do 
+    for file in FBK_Z_Init20 FBK_D_Z_Init20 FBK_D_A_Z_Init20 FBK_D_A_Z_Flatstart20 FBK_D_Z_Flatstart20 FBK_Z_Flatstart20 MFC_E_Z_Init20 MFC_E_D_Z_Init20 MFC_E_D_A_Z_Init20 MFC_E_D_A_Z_Flatstart20 MFC_E_D_Z_Flatstart20 MFC_E_Z_Flatstart20
+    do
+      for i in $(seq 2 2 20)
+	do
         hmm=hmm${i}4
         filename=decode-mono-$hmm
-        if [$option = "GRAMMARSCALE" -o $option = "GRAMMARSCALE" ]; then
-          for optvalue in $(seq 0 0.1 2)
+       
+          for optvalue in $(seq 0 0.2 2)
           do
-            ../tools/steps/step-decode -$option $optvalue $PWD/$file/mono $hmm $file/$option/$filename
+            ../tools/steps/step-decode -$option $optvalue $PWD/$file/mono $hmm $file/${option}${optvalue}/$filename
+	    echo $file $filename -$option 
             echo $file $filename -$option $optvalue >>text.txt
             grep -A2 -P 'SENT' $file/${option}${optvalue}/$filename/test/LOG >>text.txt
           done
-        elif
-            ../tools/steps/step-decode -$option $PWD/$file/mono $hmm $file/$option/$filename
-            echo $file $filename -$option >>text.txt
-	    grep -A2 -P 'SENT' $file/$option/$filename/test/LOG >>text.txt
-	fi
+   
 	done 
      done 
 done
