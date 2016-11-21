@@ -55,7 +55,7 @@ for option in GRAMMARSCALE INSWORD
   do 
     for file in FBK_Z_Init20 FBK_D_Z_Init20 FBK_D_A_Z_Init20 FBK_D_A_Z_Flatstart20 FBK_D_Z_Flatstart20 FBK_Z_Flatstart20 MFC_E_Z_Init20 MFC_E_D_Z_Init20 MFC_E_D_A_Z_Init20 MFC_E_D_A_Z_Flatstart20 MFC_E_D_Z_Flatstart20 MFC_E_Z_Flatstart20
     do
-      for i in $(seq 2 2 20)
+      for i in $(seq 1 2 20)
 	do
         hmm=hmm${i}4
         filename=decode-mono-$hmm
@@ -78,14 +78,15 @@ done
 grep -Po  'Mean Occupation Count = \K[^ ]+' MFC_E_D_Z_Flatstart20/TB800/xwtri/hmm160/LOG >>tri.txt
 grep -Po  'to \K[^ ]+' MFC_E_D_Z_Flatstart20/TB800/xwtri/hmm160/LOG
 
-#Triphone
+#Triphone Generate then test then change RO then retest
 for i in  400 600 800 1000 1400 
+do
 ../tools/steps/step-xwtri -NUMMIXES 20 -ROVAL 200 -TBVAL i \ $PWD/MFC_E_D_A_Z_Flatstart20/mono hmm164 MFC_E_D_A_Z_Flatstart20/xwtri/TB$i
 ../tools/steps/step-xwtri -NUMMIXES 20 -ROVAL 200 -TBVAL i \ $PWD/MFC_E_D_A_Z_Init20/mono hmm164 MFC_E_D_A_Z_Init20/xwtri/TB$i
 
 ../tools/steps/step-xwtri -NUMMIXES 20 -ROVAL 200 -TBVAL i \ $PWD/FBK_D_A_Z_Flatstart20/mono hmm164 FBK_D_A_Z_Flatstart20/xwtri/TB$i
 ../tools/steps/step-xwtri -NUMMIXES 20 -ROVAL 200 -TBVAL i \ $PWD/FBK_D_A_Z_Init20/mono hmm164 FBK_D_A_Z_Init20/xwtri/TB$i
-
+done
 #Decoding TRIPHONES without options 
 do 
 for file in MFC_E_D_A_Z_Init20 MFC_E_D_A_Z_Flatstart20 FBK_D_A_Z_Init20 FBK_D_A_Z_Flatstart20
@@ -102,7 +103,9 @@ for file in MFC_E_D_A_Z_Init20 MFC_E_D_A_Z_Flatstart20 FBK_D_A_Z_Init20 FBK_D_A_
 	grep -Po  'Mean Occupation Count = \K[^ ]+' MFC_E_D_Z_Flatstart20/xwtri/TB$tb/hmm${i}0/LOG >>tri.txt
 	grep -Po  'to \K[^ ]+' $file/xwtri/TB$tb/hmm${i}0/LOG >>tri.txt
 	grep -A2 -P 'SENT' $file/xwtri/TB$tb/NOOPTIONS/$filename/test/LOG >>tri.txt
-	done
+	echo $file $filename no option >>tri2.txt
+	grep -A2 -P 'SENT' $file/xwtri/B$tb/NOOPTIONS/$filename/test/LOG >>tri2.txt
+done
 done
 done
 
