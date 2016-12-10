@@ -273,7 +273,7 @@ for hmm in  hmm84
 	for file in MFC_E_D_A_Z_Init20  FBK_D_A_Z_Init20
 	do	
 	echo $hmm ${file} -CS 4 -H $H -N 500 >> dnntraintri.txt
-	grep -A7 -P 'Epoch 12' MHO/dnntraintri/$hmm/${file}_1H_CS4_N${N}/dnn${dnnft}.finetune/LOG >> dnntraintri.txt
+	grep -A7 -P 'Epoch 12' MHO/dnntraintri/$hmm/${file}_${H}H_CS4_N${N}/dnn${dnnft}.finetune/LOG >> dnntraintri.txt
 	echo $hmm $file -CS 4 -H $H -N 500 >> dnntesttri.txt
 	echo $hmm $file
 	../tools/steps/step-decode $PWD/MHO/dnntraintri/$hmm/${file}_${H}H_CS4_N${N} dnn${dnnft}.finetune MHO/decode-tri-dnn${dnnft}.finetune/$hmm/${file}_${H}H_CS4_N${N}
