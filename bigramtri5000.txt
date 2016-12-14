@@ -1,0 +1,8 @@
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 0 -CORETEST -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=70.13, Acc=56.11 [H=5157, D=589, S=1608, I=1031, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-xwtri-bigram-hmm84 -TB 5000 -GRAMMARSCALE 0 -CORETEST -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=68.86, Acc=59.26 [H=5064, D=699, S=1591, I=706, N=7354]
+===================================================================

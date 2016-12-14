@@ -1,0 +1,176 @@
+MFC_E_D_A_Z_Init20 decode-mono-bigram-hmm84 -TB -GRAMMARSCALE 0 -CORETEST -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=67.47, Acc=53.58 [H=4962, D=634, S=1758, I=1022, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-mono-bigram-hmm84 -TB -GRAMMARSCALE 0 -CORETEST -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=66.15, Acc=57.23 [H=4865, D=778, S=1711, I=656, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-mono-bigram-hmm84 -TB -GRAMMARSCALE 0 -CORETEST -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=64.62, Acc=58.81 [H=4752, D=913, S=1689, I=427, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-mono-bigram-hmm84 -TB -GRAMMARSCALE 1 -CORETEST -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=68.26, Acc=59.29 [H=5020, D=697, S=1637, I=660, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-mono-bigram-hmm84 -TB -GRAMMARSCALE 1 -CORETEST -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=66.70, Acc=60.73 [H=4905, D=861, S=1588, I=439, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-mono-bigram-hmm84 -TB -GRAMMARSCALE 1 -CORETEST -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=65.24, Acc=60.84 [H=4798, D=1011, S=1545, I=324, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-mono-bigram-hmm84 -TB -GRAMMARSCALE 2 -CORETEST -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=69.72, Acc=62.95 [H=5127, D=675, S=1552, I=498, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-mono-bigram-hmm84 -TB -GRAMMARSCALE 2 -CORETEST -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=67.99, Acc=63.16 [H=5000, D=841, S=1513, I=355, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-mono-bigram-hmm84 -TB -GRAMMARSCALE 2 -CORETEST -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=65.62, Acc=62.24 [H=4826, D=1053, S=1475, I=249, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-mono-bigram-hmm84 -TB -GRAMMARSCALE 3 -CORETEST -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=69.91, Acc=64.70 [H=5141, D=699, S=1514, I=383, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-mono-bigram-hmm84 -TB -GRAMMARSCALE 3 -CORETEST -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=68.15, Acc=64.22 [H=5012, D=854, S=1488, I=289, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-mono-bigram-hmm84 -TB -GRAMMARSCALE 3 -CORETEST -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=66.55, Acc=63.71 [H=4894, D=1009, S=1451, I=209, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-mono-bigram-hmm84 -TB -GRAMMARSCALE 4 -CORETEST -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=69.76, Acc=65.37 [H=5130, D=739, S=1485, I=323, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-mono-bigram-hmm84 -TB -GRAMMARSCALE 4 -CORETEST -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=67.85, Acc=64.60 [H=4990, D=910, S=1454, I=239, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-mono-bigram-hmm84 -TB -GRAMMARSCALE 4 -CORETEST -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=66.24, Acc=63.98 [H=4871, D=1036, S=1447, I=166, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-mono-bigram-hmm84 -TB -GRAMMARSCALE 5 -CORETEST -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=69.32, Acc=65.68 [H=5098, D=797, S=1459, I=268, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-mono-bigram-hmm84 -TB -GRAMMARSCALE 5 -CORETEST -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=67.60, Acc=64.92 [H=4971, D=930, S=1453, I=197, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-mono-bigram-hmm84 -TB -GRAMMARSCALE 5 -CORETEST -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=65.87, Acc=63.76 [H=4844, D=1085, S=1425, I=155, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-mono-bigram-hmm84 -TB -GRAMMARSCALE 6 -CORETEST -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=68.97, Acc=65.86 [H=5072, D=836, S=1446, I=229, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-mono-bigram-hmm84 -TB -GRAMMARSCALE 6 -CORETEST -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=67.56, Acc=65.19 [H=4968, D=968, S=1418, I=174, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-mono-bigram-hmm84 -TB -GRAMMARSCALE 6 -CORETEST -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=66.00, Acc=64.24 [H=4854, D=1108, S=1392, I=130, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-mono-bigram-hmm84 -TB -GRAMMARSCALE 7 -CORETEST -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=68.21, Acc=65.38 [H=5016, D=895, S=1443, I=208, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-mono-bigram-hmm84 -TB -GRAMMARSCALE 7 -CORETEST -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=66.98, Acc=64.81 [H=4926, D=1009, S=1419, I=160, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-mono-bigram-hmm84 -TB -GRAMMARSCALE 7 -CORETEST -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=65.32, Acc=63.67 [H=4804, D=1158, S=1392, I=122, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-mono-bigram-hmm84 -TB -GRAMMARSCALE 8 -CORETEST -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=67.60, Acc=65.04 [H=4971, D=947, S=1436, I=188, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-mono-bigram-hmm84 -TB -GRAMMARSCALE 8 -CORETEST -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=66.45, Acc=64.45 [H=4887, D=1050, S=1417, I=147, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-mono-bigram-hmm84 -TB -GRAMMARSCALE 8 -CORETEST -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=64.73, Acc=63.11 [H=4760, D=1200, S=1394, I=119, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-mono-bigram-hmm84 -TB -GRAMMARSCALE 9 -CORETEST -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=66.73, Acc=64.33 [H=4907, D=1001, S=1446, I=176, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-mono-bigram-hmm84 -TB -GRAMMARSCALE 9 -CORETEST -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=65.43, Acc=63.52 [H=4812, D=1115, S=1427, I=141, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-mono-bigram-hmm84 -TB -GRAMMARSCALE 9 -CORETEST -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=63.75, Acc=62.27 [H=4688, D=1268, S=1398, I=109, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-mono-bigram-hmm84 -TB -GRAMMARSCALE 10 -CORETEST -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=65.79, Acc=63.58 [H=4838, D=1057, S=1459, I=162, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-mono-bigram-hmm84 -TB -GRAMMARSCALE 10 -CORETEST -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=64.55, Acc=62.80 [H=4747, D=1182, S=1425, I=129, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-mono-bigram-hmm84 -TB -GRAMMARSCALE 10 -CORETEST -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=62.85, Acc=61.44 [H=4622, D=1349, S=1383, I=104, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-mono-bigram-hmm84 -TB -GRAMMARSCALE 11 -CORETEST -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=64.89, Acc=62.86 [H=4772, D=1121, S=1461, I=149, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-mono-bigram-hmm84 -TB -GRAMMARSCALE 11 -CORETEST -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=63.61, Acc=62.02 [H=4678, D=1261, S=1415, I=117, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-mono-bigram-hmm84 -TB -GRAMMARSCALE 11 -CORETEST -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=191, N=191]
+WORD: %Corr=62.14, Acc=60.86 [H=4541, D=1413, S=1354, I=93, N=7308]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-mono-bigram-hmm84 -TB -GRAMMARSCALE 12 -CORETEST -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=64.29, Acc=62.42 [H=4728, D=1201, S=1425, I=138, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-mono-bigram-hmm84 -TB -GRAMMARSCALE 12 -CORETEST -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=62.92, Acc=61.38 [H=4627, D=1342, S=1385, I=113, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-mono-bigram-hmm84 -TB -GRAMMARSCALE 12 -CORETEST -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=190, N=190]
+WORD: %Corr=61.31, Acc=60.20 [H=4459, D=1473, S=1341, I=81, N=7273]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-mono-bigram-hmm84 -TB -GRAMMARSCALE 13 -CORETEST -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=63.24, Acc=61.50 [H=4651, D=1280, S=1423, I=128, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-mono-bigram-hmm84 -TB -GRAMMARSCALE 13 -CORETEST -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=61.60, Acc=60.17 [H=4530, D=1431, S=1393, I=105, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-mono-bigram-hmm84 -TB -GRAMMARSCALE 13 -CORETEST -INSWORD -8
+SENT: %Correct=0.00 [H=0, S=188, N=188]
+WORD: %Corr=60.37, Acc=59.23 [H=4354, D=1528, S=1330, I=82, N=7212]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-mono-bigram-hmm164 -TB -GRAMMARSCALE 0 -CORETEST -INSWORD 0
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=68.93, Acc=55.03 [H=5069, D=617, S=1668, I=1022, N=7354]
+===================================================================
+MFC_E_D_A_Z_Init20 decode-mono-bigram-hmm164 -TB -GRAMMARSCALE 0 -CORETEST -INSWORD -4
+SENT: %Correct=0.00 [H=0, S=192, N=192]
+WORD: %Corr=67.26, Acc=58.53 [H=4946, D=780, S=1628, I=642, N=7354]
+===================================================================

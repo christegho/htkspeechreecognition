@@ -198,20 +198,20 @@ done
 
 
 #test
-#TODO 
+#IP 
 for i in 5 7
 do
 H=$i
 dnnft=$(expr $i + 2)
-for N in 400 650
+for N in 650
 do
-for hmm in  hmm84
+for hmm in  hmm164
 	do
 	for file in MFC_E_D_A_Z_Init20  FBK_D_A_Z_Init20 
 	do	
-	echo $hmm ${file} -CS 4 -H $H -N $N >> dnntrainbil.txt
-	grep -A7 -P 'Epoch 12' MHO/dnntrainbil/$hmm/${file}_${H}H_CS4_N${N}/dnn${dnnft}.finetune/LOG >> dnntrainbil.txt
-	echo $hmm $file -CS 4 -H $H -N 500 >> dnntestbil.txt
+	#echo $hmm ${file} -CS 4 -H $H -N $N >> dnntrainbil.txt
+	#grep -A7 -P 'Epoch 12' MHO/dnntrainbil/$hmm/${file}_${H}H_CS4_N${N}/dnn${dnnft}.finetune/LOG >> dnntrainbil.txt
+	echo $hmm $file -CS 4 -H $H -N $N >> dnntestbil.txt
 	echo $hmm $file -H $H -N $N 
 	../tools/steps/step-decode $PWD/MHO/dnntrainbil/$hmm/${file}_${H}H_CS4_N${N} dnn${dnnft}.finetune MHO/decode-bil-dnn${dnnft}.finetune/$hmm/${file}_${H}H_CS4_N${N}
 	grep -A2 -P 'SENT' MHO/decode-bil-dnn${dnnft}.finetune/$hmm/${file}_${H}H_CS4_N${N}/test/LOG >> dnntestbil.txt
@@ -221,20 +221,20 @@ done
 done
 done
 
-#TODO
+#DONE
 for i in 5 7
 do
 H=$i
 dnnft=$(expr $i + 2)
 for N in 400 650
 do
-for hmm in  hmm84
+for hmm in  hmm84 hmm164
 	do
 	for file in MFC_E_D_A_Z_Init20  FBK_D_A_Z_Init20 
 	do	
 	echo $hmm ${file} -CS 4 -H $H -N $N >> dnntrainbir.txt
 	grep -A7 -P 'Epoch 12' MHO/dnntrainbir/$hmm/${file}_${H}H_CS4_N${N}/dnn${dnnft}.finetune/LOG >> dnntrainbir.txt
-	echo $hmm $file -CS 4 -H $H -N 500 >> dnntestbir.txt
+	echo $hmm $file -CS 4 -H $H -N $N >> dnntestbir.txt
 	echo $hmm $file -H $H -N $N 
 	../tools/steps/step-decode $PWD/MHO/dnntrainbir/$hmm/${file}_${H}H_CS4_N${N} dnn${dnnft}.finetune MHO/decode-bir-dnn${dnnft}.finetune/$hmm/${file}_${H}H_CS4_N${N}
 	grep -A2 -P 'SENT' MHO/decode-bir-dnn${dnnft}.finetune/$hmm/${file}_${H}H_CS4_N${N}/test/LOG >> dnntestbir.txt
